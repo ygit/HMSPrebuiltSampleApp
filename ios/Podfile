@@ -77,6 +77,11 @@ target 'HMSPrebuiltSample' do
     end
   end
 
+  permissions_path = '../node_modules/react-native-permissions/ios'
+
+  pod 'Permission-Camera', :path => "#{permissions_path}/Camera"
+  pod 'Permission-Microphone', :path => "#{permissions_path}/Microphone"
+
   post_integrate do |installer|
     begin
       expo_patch_react_imports!(installer)
