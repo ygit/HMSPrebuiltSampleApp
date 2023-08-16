@@ -11,8 +11,8 @@ const App = () => {
 
       {showHMSPrebuilt ? (
         <HMSPrebuilt
-          roomCode="abc-lmno-xyz"
-          options={{ userName: "John Appleseed" }}
+          roomCode="xvm-wxwo-gbl"
+          options={{ userName: "Yogesh Android" }}
         />
       ) : (
         <View style={styles.joinContainer}>
