@@ -1,0 +1,700 @@
+2023-08-30 06:55:35 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x2d9993340; archive(resolved)="<IDEArchive: 0x60006753f4e0>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodiOSAppStoreDistribution: 0x6000512bc9f0>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0x600000fdb440; teamID='5N85PP82A9', teamName='BRYTECAM TECHNOLOGIES PRIVATE LIMITED', teamType='Company', username='yogesh@100ms.live', isFreeProvisioningTeam='0'>">
+	Chain (16, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x2d9993340; archive = "<IDEArchive: 0x60006753f4e0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x6000512bc9f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000fdb440; teamID='5N85PP82A9', teamName='BRYTECAM TECHNOLOGIES PRIVATE LIMITED', teamType='Company', username='yogesh@100ms.live', isFreeProvisioningTeam='0'>">
+	<IDEDistributionProcessingPipelineContext: 0x2d8645b30; archive = "<IDEArchive: 0x60006753f4e0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x6000512bc9f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000fdb440; teamID='5N85PP82A9', teamName='BRYTECAM TECHNOLOGIES PRIVATE LIMITED', teamType='Company', username='yogesh@100ms.live', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2b71aef90; archive = "<IDEArchive: 0x60006753f4e0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x6000512bc9f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000fdb440; teamID='5N85PP82A9', teamName='BRYTECAM TECHNOLOGIES PRIVATE LIMITED', teamType='Company', username='yogesh@100ms.live', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2a77cd430; archive = "<IDEArchive: 0x60006753f4e0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x6000512bc9f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000fdb440; teamID='5N85PP82A9', teamName='BRYTECAM TECHNOLOGIES PRIVATE LIMITED', teamType='Company', username='yogesh@100ms.live', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2bf923230; archive = "<IDEArchive: 0x60006753f4e0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x6000512bc9f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000fdb440; teamID='5N85PP82A9', teamName='BRYTECAM TECHNOLOGIES PRIVATE LIMITED', teamType='Company', username='yogesh@100ms.live', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x1230e6790; archive = "<IDEArchive: 0x60006753f4e0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x6000512bc9f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000fdb440; teamID='5N85PP82A9', teamName='BRYTECAM TECHNOLOGIES PRIVATE LIMITED', teamType='Company', username='yogesh@100ms.live', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2bf918010; archive = "<IDEArchive: 0x60006753f4e0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x6000512bc9f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000fdb440; teamID='5N85PP82A9', teamName='BRYTECAM TECHNOLOGIES PRIVATE LIMITED', teamType='Company', username='yogesh@100ms.live', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2bd3c4490; archive = "<IDEArchive: 0x60006753f4e0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x6000512bc9f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000fdb440; teamID='5N85PP82A9', teamName='BRYTECAM TECHNOLOGIES PRIVATE LIMITED', teamType='Company', username='yogesh@100ms.live', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2d8839010; archive = "<IDEArchive: 0x60006753f4e0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x6000512bc9f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000fdb440; teamID='5N85PP82A9', teamName='BRYTECAM TECHNOLOGIES PRIVATE LIMITED', teamType='Company', username='yogesh@100ms.live', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2b71ba9c0; archive = "<IDEArchive: 0x60006753f4e0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x6000512bc9f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000fdb440; teamID='5N85PP82A9', teamName='BRYTECAM TECHNOLOGIES PRIVATE LIMITED', teamType='Company', username='yogesh@100ms.live', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2b2294940; archive = "<IDEArchive: 0x60006753f4e0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x6000512bc9f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000fdb440; teamID='5N85PP82A9', teamName='BRYTECAM TECHNOLOGIES PRIVATE LIMITED', teamType='Company', username='yogesh@100ms.live', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2bf918480; archive = "<IDEArchive: 0x60006753f4e0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x6000512bc9f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000fdb440; teamID='5N85PP82A9', teamName='BRYTECAM TECHNOLOGIES PRIVATE LIMITED', teamType='Company', username='yogesh@100ms.live', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2d9a10730; archive = "<IDEArchive: 0x60006753f4e0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x6000512bc9f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000fdb440; teamID='5N85PP82A9', teamName='BRYTECAM TECHNOLOGIES PRIVATE LIMITED', teamType='Company', username='yogesh@100ms.live', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2b35cc7c0; archive = "<IDEArchive: 0x60006753f4e0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x6000512bc9f0>", team="(null)">
+	<IDEDistributionContext: 0x2b7a3c800; archive = "<IDEArchive: 0x60006753f4e0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x6000512bc9f0>", team="(null)">
+	<IDEDistributionContext: 0x2d9c57e20; archive = "<IDEArchive: 0x60006753f4e0>", distributionMethod="(null)", team="(null)">
+</IDEDistributionProcessingPipelineContext: 0x2d9993340>
+2023-08-30 06:55:35 +0000  Processing step: IDEDistributionCreateDestRootStep
+2023-08-30 06:55:35 +0000  Processing step: IDEDistributionCopyItemStep
+2023-08-30 06:55:35 +0000  Running /usr/bin/ditto '-V' '/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app'
+2023-08-30 06:55:35 +0000  >>> Copying /Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app 
+2023-08-30 06:55:35 +0000  copying file ./_CodeSignature/CodeResources ... 
+2023-08-30 06:55:35 +0000  10319 bytes for ./_CodeSignature/CodeResources
+2023-08-30 06:55:35 +0000  copying file ./SplashScreen.storyboardc/EXPO-VIEWCONTROLLER-1-view-EXPO-ContainerView.nib ... 
+2023-08-30 06:55:35 +0000  2242 bytes for ./SplashScreen.storyboardc/EXPO-VIEWCONTROLLER-1-view-EXPO-ContainerView.nib
+2023-08-30 06:55:35 +0000  copying file ./SplashScreen.storyboardc/SplashScreenViewController.nib ... 
+2023-08-30 06:55:35 +0000  976 bytes for ./SplashScreen.storyboardc/SplashScreenViewController.nib
+2023-08-30 06:55:35 +0000  copying file ./SplashScreen.storyboardc/Info.plist ... 
+2023-08-30 06:55:35 +0000  225 bytes for ./SplashScreen.storyboardc/Info.plist
+2023-08-30 06:55:35 +0000  copying file ./HMSPrebuiltSample ... 
+2023-08-30 06:55:35 +0000  4306080 bytes for ./HMSPrebuiltSample
+2023-08-30 06:55:35 +0000  copying file ./AccessibilityResources.bundle/en.lproj/Localizable.strings ... 
+2023-08-30 06:55:35 +0000  518 bytes for ./AccessibilityResources.bundle/en.lproj/Localizable.strings
+2023-08-30 06:55:35 +0000  copying file ./AccessibilityResources.bundle/Info.plist ... 
+2023-08-30 06:55:35 +0000  793 bytes for ./AccessibilityResources.bundle/Info.plist
+2023-08-30 06:55:35 +0000  copying file ./Assets.car ... 
+2023-08-30 06:55:35 +0000  35855 bytes for ./Assets.car
+2023-08-30 06:55:35 +0000  copying file ./main.jsbundle ... 
+2023-08-30 06:55:35 +0000  1670391 bytes for ./main.jsbundle
+2023-08-30 06:55:35 +0000  copying file ./EXConstants.bundle/app.config ... 
+2023-08-30 06:55:35 +0000  156 bytes for ./EXConstants.bundle/app.config
+2023-08-30 06:55:35 +0000  copying file ./EXConstants.bundle/Info.plist ... 
+2023-08-30 06:55:35 +0000  769 bytes for ./EXConstants.bundle/Info.plist
+2023-08-30 06:55:35 +0000  copying file ./Frameworks/HMSHLSPlayerSDK.framework/_CodeSignature/CodeResources ... 
+2023-08-30 06:55:35 +0000  1798 bytes for ./Frameworks/HMSHLSPlayerSDK.framework/_CodeSignature/CodeResources
+2023-08-30 06:55:35 +0000  copying file ./Frameworks/HMSHLSPlayerSDK.framework/HMSHLSPlayerSDK ... 
+2023-08-30 06:55:35 +0000  169520 bytes for ./Frameworks/HMSHLSPlayerSDK.framework/HMSHLSPlayerSDK
+2023-08-30 06:55:35 +0000  copying file ./Frameworks/HMSHLSPlayerSDK.framework/Info.plist ... 
+2023-08-30 06:55:35 +0000  891 bytes for ./Frameworks/HMSHLSPlayerSDK.framework/Info.plist
+2023-08-30 06:55:35 +0000  copying file ./Frameworks/libswift_Concurrency.dylib ... 
+2023-08-30 06:55:35 +0000  557584 bytes for ./Frameworks/libswift_Concurrency.dylib
+2023-08-30 06:55:35 +0000  copying file ./Frameworks/HMSSDK.framework/_CodeSignature/CodeResources ... 
+2023-08-30 06:55:35 +0000  1798 bytes for ./Frameworks/HMSSDK.framework/_CodeSignature/CodeResources
+2023-08-30 06:55:35 +0000  copying file ./Frameworks/HMSSDK.framework/Info.plist ... 
+2023-08-30 06:55:35 +0000  745 bytes for ./Frameworks/HMSSDK.framework/Info.plist
+2023-08-30 06:55:35 +0000  copying file ./Frameworks/HMSSDK.framework/HMSSDK ... 
+2023-08-30 06:55:35 +0000  2410080 bytes for ./Frameworks/HMSSDK.framework/HMSSDK
+2023-08-30 06:55:35 +0000  copying file ./Frameworks/WebRTC.framework/_CodeSignature/CodeResources ... 
+2023-08-30 06:55:35 +0000  1871 bytes for ./Frameworks/WebRTC.framework/_CodeSignature/CodeResources
+2023-08-30 06:55:35 +0000  copying file ./Frameworks/WebRTC.framework/.DS_Store ... 
+2023-08-30 06:55:35 +0000  6148 bytes for ./Frameworks/WebRTC.framework/.DS_Store
+2023-08-30 06:55:35 +0000  copying file ./Frameworks/WebRTC.framework/WebRTC ... 
+2023-08-30 06:55:35 +0000  7363904 bytes for ./Frameworks/WebRTC.framework/WebRTC
+2023-08-30 06:55:35 +0000  copying file ./Frameworks/WebRTC.framework/Info.plist ... 
+762 bytes for ./Frameworks/WebRTC.framework/Info.plist
+copying file ./Frameworks/HMSBroadcastExtensionSDK.framework/_CodeSignature/CodeResources ... 
+2023-08-30 06:55:35 +0000  1798 bytes for ./Frameworks/HMSBroadcastExtensionSDK.framework/_CodeSignature/CodeResources
+copying file ./Frameworks/HMSBroadcastExtensionSDK.framework/HMSBroadcastExtensionSDK ... 
+2023-08-30 06:55:35 +0000  182448 bytes for ./Frameworks/HMSBroadcastExtensionSDK.framework/HMSBroadcastExtensionSDK
+2023-08-30 06:55:35 +0000  copying file ./Frameworks/HMSBroadcastExtensionSDK.framework/Info.plist ... 
+2023-08-30 06:55:35 +0000  779 bytes for ./Frameworks/HMSBroadcastExtensionSDK.framework/Info.plist
+2023-08-30 06:55:35 +0000  copying file ./Frameworks/HMSAnalyticsSDK.framework/_CodeSignature/CodeResources ... 
+2023-08-30 06:55:35 +0000  1798 bytes for ./Frameworks/HMSAnalyticsSDK.framework/_CodeSignature/CodeResources
+2023-08-30 06:55:35 +0000  copying file ./Frameworks/HMSAnalyticsSDK.framework/HMSAnalyticsSDK ... 
+2023-08-30 06:55:35 +0000  105952 bytes for ./Frameworks/HMSAnalyticsSDK.framework/HMSAnalyticsSDK
+2023-08-30 06:55:35 +0000  copying file ./Frameworks/HMSAnalyticsSDK.framework/Info.plist ... 
+2023-08-30 06:55:35 +0000  891 bytes for ./Frameworks/HMSAnalyticsSDK.framework/Info.plist
+2023-08-30 06:55:35 +0000  copying file ./Frameworks/hermes.framework/_CodeSignature/CodeResources ... 
+2023-08-30 06:55:35 +0000  1798 bytes for ./Frameworks/hermes.framework/_CodeSignature/CodeResources
+2023-08-30 06:55:35 +0000  copying file ./Frameworks/hermes.framework/hermes ... 
+2023-08-30 06:55:36 +0000  508276416 bytes for ./Frameworks/hermes.framework/hermes
+copying file ./Frameworks/hermes.framework/Info.plist ... 
+2023-08-30 06:55:36 +0000  815 bytes for ./Frameworks/hermes.framework/Info.plist
+copying file ./embedded.mobileprovision ... 
+2023-08-30 06:55:36 +0000  42858 bytes for ./embedded.mobileprovision
+copying file ./Info.plist ... 
+2023-08-30 06:55:36 +0000  1631 bytes for ./Info.plist
+2023-08-30 06:55:36 +0000  copying file ./Expo.plist ... 
+2023-08-30 06:55:36 +0000  133 bytes for ./Expo.plist
+2023-08-30 06:55:36 +0000  copying file ./PkgInfo ... 
+2023-08-30 06:55:36 +0000  8 bytes for ./PkgInfo
+2023-08-30 06:55:36 +0000  /usr/bin/ditto exited with 0
+2023-08-30 06:55:36 +0000  Processing step: IDEDistributionEmbedProfileStep
+2023-08-30 06:55:36 +0000  Skipping profile for item: <IDEDistributionItem: 0x600067566fa0; bundleID='live.100ms.HMS.Analytics', path='<DVTFilePath:0x60002fe41880:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000f007250; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60002a71ed60; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='live.100ms.HMS.Analytics', executablePath='<DVTFilePath:0x60001f9d49a0:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework/HMSAnalyticsSDK'>', hardenedRuntime='0'>'>
+2023-08-30 06:55:36 +0000  Skipping profile for item: <IDEDistributionItem: 0x600067574fc0; bundleID='live.100ms.HMS.ScreenShare', path='<DVTFilePath:0x60002fe42680:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000b3e1c20; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60002a71ed60; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='live.100ms.HMS.ScreenShare', executablePath='<DVTFilePath:0x60002fe54500:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework/HMSBroadcastExtensionSDK'>', hardenedRuntime='0'>'>
+2023-08-30 06:55:36 +0000  Skipping profile for item: <IDEDistributionItem: 0x6000675603c0; bundleID='live.100ms.HMS.HLSPlayer', path='<DVTFilePath:0x60002fe41680:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000f038ff0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60002a71ed60; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='live.100ms.HMS.HLSPlayer', executablePath='<DVTFilePath:0x60001f9d51f0:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework/HMSHLSPlayerSDK'>', hardenedRuntime='0'>'>
+2023-08-30 06:55:36 +0000  Skipping profile for item: <IDEDistributionItem: 0x600067560960; bundleID='live.100ms.HMS', path='<DVTFilePath:0x60001f9b6a70:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000f039590; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60002a71ed60; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='live.100ms.HMS', executablePath='<DVTFilePath:0x600067565380:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSSDK.framework/HMSSDK'>', hardenedRuntime='0'>'>
+2023-08-30 06:55:36 +0000  Skipping profile for item: <IDEDistributionItem: 0x600067561020; bundleID='org.webrtc.WebRTC', path='<DVTFilePath:0x60001f9b6df0:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/WebRTC.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000f007b60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60002a71ed60; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='org.webrtc.WebRTC', executablePath='<DVTFilePath:0x600067565c80:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/WebRTC.framework/WebRTC'>', hardenedRuntime='0'>'>
+2023-08-30 06:55:36 +0000  Skipping profile for item: <IDEDistributionItem: 0x600067567960; bundleID='dev.hermesengine.iphoneos', path='<DVTFilePath:0x60001f9b4f50:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/hermes.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000f0060d0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60002a71ed60; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='dev.hermesengine.iphoneos', executablePath='<DVTFilePath:0x600067522640:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/hermes.framework/hermes'>', hardenedRuntime='0'>'>
+2023-08-30 06:55:36 +0000  Skipping profile for item: <IDEDistributionItem: 0x600067560a80; bundleID='com.apple.dt.runtime.swiftConcurrency', path='<DVTFilePath:0x60002fe41580:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/libswift_Concurrency.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000f038b40; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60002a71ed60; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='com.apple.dt.runtime.swiftConcurrency', executablePath='<DVTFilePath:0x60002fe41580:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/libswift_Concurrency.dylib'>', hardenedRuntime='0'>'>
+2023-08-30 06:55:36 +0000  Processing step: IDEDistributionInfoPlistStep
+2023-08-30 06:55:36 +0000  Skipping setting DTXcodeBuildDistribution because toolsBuildVersionName was nil.
+2023-08-30 06:55:36 +0000  Skipping setting DTXcodeBuildDistribution because toolsBuildVersionName was nil.
+2023-08-30 06:55:36 +0000  Skipping setting DTXcodeBuildDistribution because toolsBuildVersionName was nil.
+2023-08-30 06:55:36 +0000  Skipping setting DTXcodeBuildDistribution because toolsBuildVersionName was nil.
+2023-08-30 06:55:36 +0000  Skipping setting DTXcodeBuildDistribution because toolsBuildVersionName was nil.
+2023-08-30 06:55:36 +0000  Skipping setting DTXcodeBuildDistribution because toolsBuildVersionName was nil.
+2023-08-30 06:55:36 +0000  No Info.plist file URL found for item at path "/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/libswift_Concurrency.dylib".
+2023-08-30 06:55:36 +0000  Skipping setting DTXcodeBuildDistribution because toolsBuildVersionName was nil.
+2023-08-30 06:55:36 +0000  Processing step: IDEDistributionItemRemovalStep
+2023-08-30 06:55:36 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2023-08-30 06:55:36 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2023-08-30 06:55:36 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2023-08-30 06:55:36 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2023-08-30 06:55:36 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2023-08-30 06:55:36 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/hermes.framework/hermes' '-r' '-keep_cs' '-o' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/hermes.framework/hermes'
+2023-08-30 06:55:36 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2023-08-30 06:55:36 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2023-08-30 06:55:36 +0000  Processing step: IDEDistributionSymbolsStep
+2023-08-30 06:55:36 +0000  Processing symbols for HMSAnalyticsSDK.framework
+2023-08-30 06:55:36 +0000  Running /usr/bin/rsync '-8aPhhE' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework' '--link-dest' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V'
+2023-08-30 06:55:36 +0000  building file list ... 
+2023-08-30 06:55:36 +0000   0 files...2023-08-30 06:55:36 +0000  5 files to consider
+2023-08-30 06:55:36 +0000  HMSAnalyticsSDK.framework/
+2023-08-30 06:55:36 +0000  HMSAnalyticsSDK.framework/_CodeSignature/
+rsync: link "/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/HMSAnalyticsSDK.framework/_CodeSignature/CodeResources" => /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework/_CodeSignature/CodeResources failed: Operation not permitted (1)
+2023-08-30 06:55:36 +0000  HMSAnalyticsSDK.framework/_CodeSignature/CodeResources
+2023-08-30 06:55:36 +0000  
+2023-08-30 06:55:36 +0000  sent 240 bytes  received 38 bytes  556.00 bytes/sec
+total size is 106.09K  speedup is 390.79
+2023-08-30 06:55:36 +0000  /usr/bin/rsync exited with 0
+2023-08-30 06:55:36 +0000  Running /usr/bin/rsync '-8aPhhE' '/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/dSYMs/' '--link-dest' '/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/dSYMs/' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V'
+2023-08-30 06:55:36 +0000  building file list ... 
+2023-08-30 06:55:36 +0000   0 files...2023-08-30 06:55:36 +0000  11 files to consider
+2023-08-30 06:55:36 +0000  ./
+2023-08-30 06:55:36 +0000  HMSPrebuiltSample.app.dSYM/
+HMSPrebuiltSample.app.dSYM/Contents/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/DWARF/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/Swift/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/Swift/aarch64/
+2023-08-30 06:55:36 +0000  
+2023-08-30 06:55:36 +0000  sent 399 bytes  received 62 bytes  922.00 bytes/sec
+total size is 42.64M  speedup is 96979.88
+2023-08-30 06:55:36 +0000  /usr/bin/rsync exited with 0
+2023-08-30 06:55:36 +0000  Writing /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Symbols/46E9B8AA-84D6-3DAF-BA54-9B4D401E478E.symbols
+2023-08-30 06:55:36 +0000  Processing symbols for HMSBroadcastExtensionSDK.framework
+2023-08-30 06:55:36 +0000  Running /usr/bin/rsync '-8aPhhE' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework' '--link-dest' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V'
+2023-08-30 06:55:36 +0000  building file list ... 
+2023-08-30 06:55:36 +0000   0 files...2023-08-30 06:55:36 +0000  5 files to consider
+2023-08-30 06:55:36 +0000  HMSBroadcastExtensionSDK.framework/
+2023-08-30 06:55:36 +0000  HMSBroadcastExtensionSDK.framework/_CodeSignature/
+rsync: link "/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/HMSBroadcastExtensionSDK.framework/_CodeSignature/CodeResources" => /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework/_CodeSignature/CodeResources failed: Operation not permitted (1)
+2023-08-30 06:55:36 +0000  HMSBroadcastExtensionSDK.framework/_CodeSignature/CodeResources
+2023-08-30 06:55:36 +0000  
+2023-08-30 06:55:36 +0000  sent 258 bytes  received 38 bytes  592.00 bytes/sec
+total size is 180.69K  speedup is 625.07
+2023-08-30 06:55:36 +0000  /usr/bin/rsync exited with 0
+2023-08-30 06:55:36 +0000  Running /usr/bin/rsync '-8aPhhE' '/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/dSYMs/' '--link-dest' '/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/dSYMs/' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V'
+2023-08-30 06:55:36 +0000  building file list ... 
+2023-08-30 06:55:36 +0000   0 files...2023-08-30 06:55:36 +0000  11 files to consider
+2023-08-30 06:55:36 +0000  ./
+2023-08-30 06:55:36 +0000  HMSPrebuiltSample.app.dSYM/
+HMSPrebuiltSample.app.dSYM/Contents/
+2023-08-30 06:55:36 +0000  HMSPrebuiltSample.app.dSYM/Contents/Resources/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/DWARF/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/Swift/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/Swift/aarch64/
+2023-08-30 06:55:36 +0000  
+2023-08-30 06:55:36 +0000  sent 423 bytes  received 86 bytes  1018.00 bytes/sec
+total size is 42.64M  speedup is 87834.43
+2023-08-30 06:55:36 +0000  /usr/bin/rsync exited with 0
+2023-08-30 06:55:36 +0000  Writing /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Symbols/1ACF90BF-F56F-35BA-87BE-890C8674BC35.symbols
+2023-08-30 06:55:36 +0000  Processing symbols for HMSHLSPlayerSDK.framework
+2023-08-30 06:55:36 +0000  Running /usr/bin/rsync '-8aPhhE' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework' '--link-dest' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V'
+2023-08-30 06:55:36 +0000  building file list ... 
+2023-08-30 06:55:36 +0000   0 files...2023-08-30 06:55:36 +0000  5 files to consider
+2023-08-30 06:55:36 +0000  HMSHLSPlayerSDK.framework/
+2023-08-30 06:55:36 +0000  HMSHLSPlayerSDK.framework/_CodeSignature/
+rsync: link "/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/HMSHLSPlayerSDK.framework/_CodeSignature/CodeResources" => /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework/_CodeSignature/CodeResources failed: Operation not permitted (1)
+2023-08-30 06:55:36 +0000  HMSHLSPlayerSDK.framework/_CodeSignature/CodeResources
+2023-08-30 06:55:36 +0000  
+2023-08-30 06:55:36 +0000  sent 240 bytes  received 38 bytes  556.00 bytes/sec
+total size is 168.17K  speedup is 619.45
+2023-08-30 06:55:36 +0000  /usr/bin/rsync exited with 0
+2023-08-30 06:55:36 +0000  Running /usr/bin/rsync '-8aPhhE' '/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/dSYMs/' '--link-dest' '/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/dSYMs/' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V'
+2023-08-30 06:55:36 +0000  building file list ... 
+2023-08-30 06:55:36 +0000   0 files...2023-08-30 06:55:36 +0000  11 files to consider
+2023-08-30 06:55:36 +0000  ./
+2023-08-30 06:55:36 +0000  HMSPrebuiltSample.app.dSYM/
+HMSPrebuiltSample.app.dSYM/Contents/
+2023-08-30 06:55:36 +0000  HMSPrebuiltSample.app.dSYM/Contents/Resources/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/DWARF/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/Swift/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/Swift/aarch64/
+2023-08-30 06:55:36 +0000  
+2023-08-30 06:55:36 +0000  sent 423 bytes  received 86 bytes  1018.00 bytes/sec
+total size is 42.64M  speedup is 87834.43
+2023-08-30 06:55:36 +0000  /usr/bin/rsync exited with 0
+2023-08-30 06:55:36 +0000  Writing /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Symbols/6E1281F4-5F7E-39B8-9452-140AB18FF7CC.symbols
+2023-08-30 06:55:36 +0000  Processing symbols for HMSSDK.framework
+2023-08-30 06:55:36 +0000  Running /usr/bin/rsync '-8aPhhE' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSSDK.framework' '--link-dest' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V'
+2023-08-30 06:55:36 +0000  building file list ... 
+2023-08-30 06:55:36 +0000   0 files...2023-08-30 06:55:36 +0000  5 files to consider
+2023-08-30 06:55:36 +0000  HMSSDK.framework/
+2023-08-30 06:55:36 +0000  HMSSDK.framework/_CodeSignature/
+rsync: link "/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/HMSSDK.framework/_CodeSignature/CodeResources" => /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSSDK.framework/_CodeSignature/CodeResources failed: Operation not permitted (1)
+2023-08-30 06:55:36 +0000  HMSSDK.framework/_CodeSignature/CodeResources
+2023-08-30 06:55:36 +0000  
+2023-08-30 06:55:36 +0000  sent 222 bytes  received 38 bytes  520.00 bytes/sec
+total size is 2.30M  speedup is 9279.31
+2023-08-30 06:55:36 +0000  /usr/bin/rsync exited with 0
+2023-08-30 06:55:36 +0000  Running /usr/bin/rsync '-8aPhhE' '/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/dSYMs/' '--link-dest' '/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/dSYMs/' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V'
+2023-08-30 06:55:36 +0000  building file list ... 
+2023-08-30 06:55:36 +0000   0 files...2023-08-30 06:55:36 +0000  11 files to consider
+2023-08-30 06:55:36 +0000  ./
+2023-08-30 06:55:36 +0000  HMSPrebuiltSample.app.dSYM/
+HMSPrebuiltSample.app.dSYM/Contents/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/DWARF/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/Swift/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/Swift/aarch64/
+2023-08-30 06:55:36 +0000  
+2023-08-30 06:55:36 +0000  sent 423 bytes  received 86 bytes  1018.00 bytes/sec
+total size is 42.64M  speedup is 87834.43
+2023-08-30 06:55:36 +0000  /usr/bin/rsync exited with 0
+2023-08-30 06:55:36 +0000  Writing /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Symbols/551DF34D-4668-3E2F-87BC-AA39FF28B5C3.symbols
+2023-08-30 06:55:36 +0000  Processing symbols for WebRTC.framework
+2023-08-30 06:55:36 +0000  Running /usr/bin/rsync '-8aPhhE' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/WebRTC.framework' '--link-dest' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V'
+2023-08-30 06:55:36 +0000  building file list ... 
+2023-08-30 06:55:36 +0000   0 files...2023-08-30 06:55:36 +0000  6 files to consider
+2023-08-30 06:55:36 +0000  WebRTC.framework/
+2023-08-30 06:55:36 +0000  rsync: link "/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/WebRTC.framework/.DS_Store" => /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/WebRTC.framework/.DS_Store failed: Operation not permitted (1)
+2023-08-30 06:55:36 +0000  WebRTC.framework/.DS_Store
+WebRTC.framework/_CodeSignature/
+rsync: link "/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/WebRTC.framework/_CodeSignature/CodeResources" => /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/WebRTC.framework/_CodeSignature/CodeResources failed: Operation not permitted (1)
+2023-08-30 06:55:36 +0000  WebRTC.framework/_CodeSignature/CodeResources
+2023-08-30 06:55:36 +0000  
+2023-08-30 06:55:36 +0000  sent 253 bytes  received 44 bytes  594.00 bytes/sec
+total size is 7.03M  speedup is 24823.84
+2023-08-30 06:55:36 +0000  /usr/bin/rsync exited with 0
+2023-08-30 06:55:36 +0000  Running /usr/bin/rsync '-8aPhhE' '/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/dSYMs/' '--link-dest' '/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/dSYMs/' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V'
+2023-08-30 06:55:36 +0000  building file list ... 
+2023-08-30 06:55:36 +0000   0 files...2023-08-30 06:55:36 +0000  11 files to consider
+2023-08-30 06:55:36 +0000  ./
+2023-08-30 06:55:36 +0000  HMSPrebuiltSample.app.dSYM/
+HMSPrebuiltSample.app.dSYM/Contents/
+2023-08-30 06:55:36 +0000  HMSPrebuiltSample.app.dSYM/Contents/Resources/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/DWARF/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/Swift/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/Swift/aarch64/
+2023-08-30 06:55:36 +0000  
+2023-08-30 06:55:36 +0000  sent 423 bytes  received 86 bytes  1018.00 bytes/sec
+total size is 42.64M  speedup is 87834.43
+2023-08-30 06:55:36 +0000  /usr/bin/rsync exited with 0
+2023-08-30 06:55:36 +0000  Writing /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Symbols/4C4C44AA-5555-3144-A1B9-66270F9D0079.symbols
+2023-08-30 06:55:36 +0000  Processing symbols for hermes.framework
+2023-08-30 06:55:36 +0000  Running /usr/bin/rsync '-8aPhhE' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/hermes.framework' '--link-dest' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V'
+2023-08-30 06:55:36 +0000  building file list ... 
+2023-08-30 06:55:36 +0000   0 files...2023-08-30 06:55:36 +0000  5 files to consider
+2023-08-30 06:55:36 +0000  hermes.framework/
+2023-08-30 06:55:36 +0000  hermes.framework/_CodeSignature/
+rsync: link "/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/hermes.framework/_CodeSignature/CodeResources" => /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/hermes.framework/_CodeSignature/CodeResources failed: Operation not permitted (1)
+2023-08-30 06:55:36 +0000  hermes.framework/_CodeSignature/CodeResources
+2023-08-30 06:55:36 +0000  
+2023-08-30 06:55:36 +0000  sent 218 bytes  received 38 bytes  512.00 bytes/sec
+total size is 6.83M  speedup is 27960.93
+2023-08-30 06:55:36 +0000  /usr/bin/rsync exited with 0
+2023-08-30 06:55:36 +0000  Running /usr/bin/rsync '-8aPhhE' '/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/dSYMs/' '--link-dest' '/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/dSYMs/' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V'
+2023-08-30 06:55:36 +0000  building file list ... 
+2023-08-30 06:55:36 +0000   0 files...2023-08-30 06:55:36 +0000  11 files to consider
+2023-08-30 06:55:36 +0000  ./
+2023-08-30 06:55:36 +0000  HMSPrebuiltSample.app.dSYM/
+HMSPrebuiltSample.app.dSYM/Contents/
+2023-08-30 06:55:36 +0000  HMSPrebuiltSample.app.dSYM/Contents/Resources/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/DWARF/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/Swift/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/Swift/aarch64/
+2023-08-30 06:55:36 +0000  
+2023-08-30 06:55:36 +0000  sent 423 bytes  received 86 bytes  1018.00 bytes/sec
+total size is 42.64M  speedup is 87834.43
+2023-08-30 06:55:36 +0000  /usr/bin/rsync exited with 0
+2023-08-30 06:55:36 +0000  Writing /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Symbols/249B2B8E-BF47-3411-A979-71AF14681D5D.symbols
+2023-08-30 06:55:36 +0000  Excluding symbols for libswift_Concurrency.dylib
+2023-08-30 06:55:36 +0000  Processing symbols for HMSPrebuiltSample.app
+2023-08-30 06:55:36 +0000  Running /usr/bin/rsync '-8aPhhE' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app' '--link-dest' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V'
+2023-08-30 06:55:36 +0000  building file list ... 
+2023-08-30 06:55:36 +0000   0 files...2023-08-30 06:55:36 +0000  54 files to consider
+2023-08-30 06:55:36 +0000  HMSPrebuiltSample.app/
+2023-08-30 06:55:36 +0000  HMSPrebuiltSample.app/AccessibilityResources.bundle/
+HMSPrebuiltSample.app/AccessibilityResources.bundle/en.lproj/
+HMSPrebuiltSample.app/EXConstants.bundle/
+HMSPrebuiltSample.app/Frameworks/
+HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework/
+HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework/_CodeSignature/
+HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework/
+HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework/_CodeSignature/
+HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework/
+HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework/_CodeSignature/
+HMSPrebuiltSample.app/Frameworks/HMSSDK.framework/
+HMSPrebuiltSample.app/Frameworks/HMSSDK.framework/_CodeSignature/
+2023-08-30 06:55:36 +0000  HMSPrebuiltSample.app/Frameworks/WebRTC.framework/
+HMSPrebuiltSample.app/Frameworks/WebRTC.framework/_CodeSignature/
+HMSPrebuiltSample.app/Frameworks/hermes.framework/
+HMSPrebuiltSample.app/Frameworks/hermes.framework/_CodeSignature/
+HMSPrebuiltSample.app/SplashScreen.storyboardc/
+HMSPrebuiltSample.app/_CodeSignature/
+2023-08-30 06:55:36 +0000  
+2023-08-30 06:55:36 +0000  sent 2.00K bytes  received 134 bytes  4.26K bytes/sec
+total size is 22.90M  speedup is 11014.37
+2023-08-30 06:55:36 +0000  /usr/bin/rsync exited with 0
+2023-08-30 06:55:36 +0000  Running /usr/bin/rsync '-8aPhhE' '/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/dSYMs/' '--link-dest' '/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/dSYMs/' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V'
+2023-08-30 06:55:36 +0000  building file list ... 
+2023-08-30 06:55:36 +0000   0 files...2023-08-30 06:55:36 +0000  11 files to consider
+2023-08-30 06:55:36 +0000  ./
+2023-08-30 06:55:36 +0000  HMSPrebuiltSample.app.dSYM/
+HMSPrebuiltSample.app.dSYM/Contents/
+2023-08-30 06:55:36 +0000  HMSPrebuiltSample.app.dSYM/Contents/Resources/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/DWARF/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/Swift/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/Swift/aarch64/
+2023-08-30 06:55:36 +0000  
+2023-08-30 06:55:36 +0000  sent 423 bytes  received 86 bytes  1018.00 bytes/sec
+total size is 42.64M  speedup is 87834.43
+2023-08-30 06:55:36 +0000  /usr/bin/rsync exited with 0
+2023-08-30 06:55:37 +0000  Writing /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Symbols/097C41D6-3907-3CE6-94BD-3E86B3C03F8D.symbols
+2023-08-30 06:55:37 +0000  Processing step: IDEDistributionCopyAppleProvidedContentStep
+2023-08-30 06:55:37 +0000  Running /usr/bin/ditto '-V' '/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/SwiftSupport' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/SwiftSupport'
+2023-08-30 06:55:37 +0000  >>> Copying /Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/SwiftSupport 
+2023-08-30 06:55:37 +0000  copying file ./iphoneos/libswift_Concurrency.dylib ... 
+2023-08-30 06:55:37 +0000  10535439 bytes for ./iphoneos/libswift_Concurrency.dylib
+2023-08-30 06:55:37 +0000  /usr/bin/ditto exited with 0
+2023-08-30 06:55:37 +0000  Processing step: IDEDistributionAppThinningStep
+2023-08-30 06:55:37 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2023-08-30 06:55:37 +0000  Processing step: IDEDistributionArchThinningStep
+2023-08-30 06:55:37 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework/HMSAnalyticsSDK' '-verify_arch' 'arm64e'
+2023-08-30 06:55:37 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-08-30 06:55:37 +0000  Skipping architecture thinning for item "HMSAnalyticsSDK" because arch "arm64e" wasn't found
+2023-08-30 06:55:37 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework/HMSBroadcastExtensionSDK' '-verify_arch' 'arm64e'
+2023-08-30 06:55:37 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-08-30 06:55:37 +0000  Skipping architecture thinning for item "HMSBroadcastExtensionSDK" because arch "arm64e" wasn't found
+2023-08-30 06:55:37 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework/HMSHLSPlayerSDK' '-verify_arch' 'arm64e'
+2023-08-30 06:55:37 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-08-30 06:55:37 +0000  Skipping architecture thinning for item "HMSHLSPlayerSDK" because arch "arm64e" wasn't found
+2023-08-30 06:55:37 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSSDK.framework/HMSSDK' '-verify_arch' 'arm64e'
+2023-08-30 06:55:37 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-08-30 06:55:37 +0000  Skipping architecture thinning for item "HMSSDK" because arch "arm64e" wasn't found
+2023-08-30 06:55:37 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/WebRTC.framework/WebRTC' '-verify_arch' 'arm64e'
+2023-08-30 06:55:37 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-08-30 06:55:37 +0000  Skipping architecture thinning for item "WebRTC" because arch "arm64e" wasn't found
+2023-08-30 06:55:37 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/hermes.framework/hermes' '-verify_arch' 'arm64e'
+2023-08-30 06:55:37 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-08-30 06:55:37 +0000  Skipping architecture thinning for item "hermes" because arch "arm64e" wasn't found
+2023-08-30 06:55:37 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/libswift_Concurrency.dylib' '-verify_arch' 'arm64e'
+2023-08-30 06:55:37 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-08-30 06:55:37 +0000  Skipping architecture thinning for item "libswift_Concurrency.dylib" because arch "arm64e" wasn't found
+2023-08-30 06:55:37 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/HMSPrebuiltSample' '-verify_arch' 'arm64e'
+2023-08-30 06:55:37 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-08-30 06:55:37 +0000  Skipping architecture thinning for item "HMSPrebuiltSample" because arch "arm64e" wasn't found
+2023-08-30 06:55:37 +0000  Processing step: IDEDistributionODRStep
+2023-08-30 06:55:37 +0000  Processing step: IDEDistributionStripXattrsStep
+2023-08-30 06:55:37 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x600067566fa0; bundleID='live.100ms.HMS.Analytics', path='<DVTFilePath:0x60002fe41880:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000f007250; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60002a7482c0; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='live.100ms.HMS.Analytics', executablePath='<DVTFilePath:0x60001f9d49a0:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework/HMSAnalyticsSDK'>', hardenedRuntime='0'>'>
+2023-08-30 06:55:37 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x600067574fc0; bundleID='live.100ms.HMS.ScreenShare', path='<DVTFilePath:0x60002fe42680:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000b3e1c20; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60002a7482c0; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='live.100ms.HMS.ScreenShare', executablePath='<DVTFilePath:0x60002fe54500:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework/HMSBroadcastExtensionSDK'>', hardenedRuntime='0'>'>
+2023-08-30 06:55:37 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x6000675603c0; bundleID='live.100ms.HMS.HLSPlayer', path='<DVTFilePath:0x60002fe41680:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000f038ff0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60002a7482c0; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='live.100ms.HMS.HLSPlayer', executablePath='<DVTFilePath:0x60001f9d51f0:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework/HMSHLSPlayerSDK'>', hardenedRuntime='0'>'>
+2023-08-30 06:55:37 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x600067560960; bundleID='live.100ms.HMS', path='<DVTFilePath:0x60001f9b6a70:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000f039590; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60002a7482c0; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='live.100ms.HMS', executablePath='<DVTFilePath:0x600067565380:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSSDK.framework/HMSSDK'>', hardenedRuntime='0'>'>
+2023-08-30 06:55:37 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x600067561020; bundleID='org.webrtc.WebRTC', path='<DVTFilePath:0x60001f9b6df0:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/WebRTC.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000f007b60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60002a7482c0; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='org.webrtc.WebRTC', executablePath='<DVTFilePath:0x600067565c80:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/WebRTC.framework/WebRTC'>', hardenedRuntime='0'>'>
+2023-08-30 06:55:37 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x600067567960; bundleID='dev.hermesengine.iphoneos', path='<DVTFilePath:0x60001f9b4f50:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/hermes.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000f0060d0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60002a7482c0; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='dev.hermesengine.iphoneos', executablePath='<DVTFilePath:0x600067522640:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/hermes.framework/hermes'>', hardenedRuntime='0'>'>
+2023-08-30 06:55:37 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x600067560a80; bundleID='com.apple.dt.runtime.swiftConcurrency', path='<DVTFilePath:0x60002fe41580:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/libswift_Concurrency.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000f038b40; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60002a7482c0; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='com.apple.dt.runtime.swiftConcurrency', executablePath='<DVTFilePath:0x60002fe41580:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/libswift_Concurrency.dylib'>', hardenedRuntime='0'>'>
+2023-08-30 06:55:37 +0000  Running /usr/bin/xattr '-crs' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app'
+2023-08-30 06:55:37 +0000  /usr/bin/xattr exited with 0
+2023-08-30 06:55:37 +0000  Processing step: IDEDistributionCodesignStep
+2023-08-30 06:55:37 +0000  Entitlements for <IDEDistributionItem: 0x600067566fa0; bundleID='live.100ms.HMS.Analytics', path='<DVTFilePath:0x60002fe41880:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000f007250; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60002a748370; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='live.100ms.HMS.Analytics', executablePath='<DVTFilePath:0x60001f9d49a0:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework/HMSAnalyticsSDK'>', hardenedRuntime='0'>'>: {
+}
+2023-08-30 06:55:37 +0000  Entitlements for <IDEDistributionItem: 0x600067566fa0; bundleID='live.100ms.HMS.Analytics', path='<DVTFilePath:0x60002fe41880:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000f007250; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60002a748580; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='live.100ms.HMS.Analytics', executablePath='<DVTFilePath:0x60001f9d49a0:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework/HMSAnalyticsSDK'>', hardenedRuntime='0'>'> are: {
+}
+2023-08-30 06:55:37 +0000  Writing entitlements for <IDEDistributionItem: 0x600067566fa0; bundleID='live.100ms.HMS.Analytics', path='<DVTFilePath:0x60002fe41880:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000f007250; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60002a7486e0; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='live.100ms.HMS.Analytics', executablePath='<DVTFilePath:0x60001f9d49a0:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework/HMSAnalyticsSDK'>', hardenedRuntime='0'>'> to: /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/entitlements~~~TcfqA6
+2023-08-30 06:55:37 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '63611E77D24E014297309837456FC26F05C2CCA8' '--entitlements' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/entitlements~~~TcfqA6' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework'
+2023-08-30 06:55:37 +0000  /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework: replacing existing signature
+2023-08-30 06:55:37 +0000  /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework: signed bundle with Mach-O thin (arm64) [live.100ms.HMS.Analytics]
+2023-08-30 06:55:37 +0000  /usr/bin/codesign exited with 0
+2023-08-30 06:55:37 +0000  Entitlements for <IDEDistributionItem: 0x600067574fc0; bundleID='live.100ms.HMS.ScreenShare', path='<DVTFilePath:0x60002fe42680:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000b3e1c20; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60003241cdc0; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='live.100ms.HMS.ScreenShare', executablePath='<DVTFilePath:0x60002fe54500:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework/HMSBroadcastExtensionSDK'>', hardenedRuntime='0'>'>: {
+}
+2023-08-30 06:55:37 +0000  Entitlements for <IDEDistributionItem: 0x600067574fc0; bundleID='live.100ms.HMS.ScreenShare', path='<DVTFilePath:0x60002fe42680:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000b3e1c20; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60003241dfa0; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='live.100ms.HMS.ScreenShare', executablePath='<DVTFilePath:0x60002fe54500:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework/HMSBroadcastExtensionSDK'>', hardenedRuntime='0'>'> are: {
+}
+2023-08-30 06:55:37 +0000  Writing entitlements for <IDEDistributionItem: 0x600067574fc0; bundleID='live.100ms.HMS.ScreenShare', path='<DVTFilePath:0x60002fe42680:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000b3e1c20; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60002a7482c0; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='live.100ms.HMS.ScreenShare', executablePath='<DVTFilePath:0x60002fe54500:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework/HMSBroadcastExtensionSDK'>', hardenedRuntime='0'>'> to: /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/entitlements~~~GlaYuv
+2023-08-30 06:55:37 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '63611E77D24E014297309837456FC26F05C2CCA8' '--entitlements' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/entitlements~~~GlaYuv' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework'
+2023-08-30 06:55:37 +0000  /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework: replacing existing signature
+2023-08-30 06:55:37 +0000  /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework: signed bundle with Mach-O thin (arm64) [live.100ms.HMS.ScreenShare]
+2023-08-30 06:55:37 +0000  /usr/bin/codesign exited with 0
+2023-08-30 06:55:37 +0000  Entitlements for <IDEDistributionItem: 0x6000675603c0; bundleID='live.100ms.HMS.HLSPlayer', path='<DVTFilePath:0x60002fe41680:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000f038ff0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60003241cdc0; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='live.100ms.HMS.HLSPlayer', executablePath='<DVTFilePath:0x60001f9d51f0:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework/HMSHLSPlayerSDK'>', hardenedRuntime='0'>'>: {
+}
+2023-08-30 06:55:37 +0000  Entitlements for <IDEDistributionItem: 0x6000675603c0; bundleID='live.100ms.HMS.HLSPlayer', path='<DVTFilePath:0x60002fe41680:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000f038ff0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60003241dfa0; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='live.100ms.HMS.HLSPlayer', executablePath='<DVTFilePath:0x60001f9d51f0:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework/HMSHLSPlayerSDK'>', hardenedRuntime='0'>'> are: {
+}
+2023-08-30 06:55:37 +0000  Writing entitlements for <IDEDistributionItem: 0x6000675603c0; bundleID='live.100ms.HMS.HLSPlayer', path='<DVTFilePath:0x60002fe41680:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000f038ff0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60003241def0; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='live.100ms.HMS.HLSPlayer', executablePath='<DVTFilePath:0x60001f9d51f0:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework/HMSHLSPlayerSDK'>', hardenedRuntime='0'>'> to: /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/entitlements~~~crsMmB
+2023-08-30 06:55:37 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '63611E77D24E014297309837456FC26F05C2CCA8' '--entitlements' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/entitlements~~~crsMmB' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework'
+2023-08-30 06:55:37 +0000  /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework: replacing existing signature
+2023-08-30 06:55:37 +0000  /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework: signed bundle with Mach-O thin (arm64) [live.100ms.HMS.HLSPlayer]
+2023-08-30 06:55:37 +0000  /usr/bin/codesign exited with 0
+2023-08-30 06:55:37 +0000  Entitlements for <IDEDistributionItem: 0x600067560960; bundleID='live.100ms.HMS', path='<DVTFilePath:0x60001f9b6a70:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000f039590; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600032744fd0; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='live.100ms.HMS', executablePath='<DVTFilePath:0x600067565380:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSSDK.framework/HMSSDK'>', hardenedRuntime='0'>'>: {
+}
+2023-08-30 06:55:37 +0000  Entitlements for <IDEDistributionItem: 0x600067560960; bundleID='live.100ms.HMS', path='<DVTFilePath:0x60001f9b6a70:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000f039590; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60003241cdc0; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='live.100ms.HMS', executablePath='<DVTFilePath:0x600067565380:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSSDK.framework/HMSSDK'>', hardenedRuntime='0'>'> are: {
+}
+2023-08-30 06:55:37 +0000  Writing entitlements for <IDEDistributionItem: 0x600067560960; bundleID='live.100ms.HMS', path='<DVTFilePath:0x60001f9b6a70:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000f039590; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60003241f4f0; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='live.100ms.HMS', executablePath='<DVTFilePath:0x600067565380:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSSDK.framework/HMSSDK'>', hardenedRuntime='0'>'> to: /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/entitlements~~~134qZ3
+2023-08-30 06:55:37 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '63611E77D24E014297309837456FC26F05C2CCA8' '--entitlements' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/entitlements~~~134qZ3' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSSDK.framework'
+2023-08-30 06:55:37 +0000  /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSSDK.framework: replacing existing signature
+2023-08-30 06:55:37 +0000  /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSSDK.framework: signed bundle with Mach-O thin (arm64) [live.100ms.HMS]
+2023-08-30 06:55:37 +0000  /usr/bin/codesign exited with 0
+2023-08-30 06:55:37 +0000  Entitlements for <IDEDistributionItem: 0x600067561020; bundleID='org.webrtc.WebRTC', path='<DVTFilePath:0x60001f9b6df0:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/WebRTC.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000f007b60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60003a7682c0; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='org.webrtc.WebRTC', executablePath='<DVTFilePath:0x600067565c80:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/WebRTC.framework/WebRTC'>', hardenedRuntime='0'>'>: {
+}
+2023-08-30 06:55:37 +0000  Entitlements for <IDEDistributionItem: 0x600067561020; bundleID='org.webrtc.WebRTC', path='<DVTFilePath:0x60001f9b6df0:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/WebRTC.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000f007b60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60003241cdc0; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='org.webrtc.WebRTC', executablePath='<DVTFilePath:0x600067565c80:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/WebRTC.framework/WebRTC'>', hardenedRuntime='0'>'> are: {
+}
+2023-08-30 06:55:37 +0000  Writing entitlements for <IDEDistributionItem: 0x600067561020; bundleID='org.webrtc.WebRTC', path='<DVTFilePath:0x60001f9b6df0:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/WebRTC.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000f007b60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60003241f4f0; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='org.webrtc.WebRTC', executablePath='<DVTFilePath:0x600067565c80:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/WebRTC.framework/WebRTC'>', hardenedRuntime='0'>'> to: /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/entitlements~~~9B4f4u
+2023-08-30 06:55:37 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '63611E77D24E014297309837456FC26F05C2CCA8' '--entitlements' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/entitlements~~~9B4f4u' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/WebRTC.framework'
+2023-08-30 06:55:37 +0000  /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/WebRTC.framework: replacing existing signature
+2023-08-30 06:55:37 +0000  /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/WebRTC.framework: signed bundle with Mach-O universal (arm64) [org.webrtc.WebRTC]
+2023-08-30 06:55:37 +0000  /usr/bin/codesign exited with 0
+2023-08-30 06:55:37 +0000  Entitlements for <IDEDistributionItem: 0x600067567960; bundleID='dev.hermesengine.iphoneos', path='<DVTFilePath:0x60001f9b4f50:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/hermes.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000f0060d0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60003241cdc0; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='dev.hermesengine.iphoneos', executablePath='<DVTFilePath:0x600067522640:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/hermes.framework/hermes'>', hardenedRuntime='0'>'>: {
+}
+2023-08-30 06:55:37 +0000  Entitlements for <IDEDistributionItem: 0x600067567960; bundleID='dev.hermesengine.iphoneos', path='<DVTFilePath:0x60001f9b4f50:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/hermes.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000f0060d0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60003241dfa0; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='dev.hermesengine.iphoneos', executablePath='<DVTFilePath:0x600067522640:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/hermes.framework/hermes'>', hardenedRuntime='0'>'> are: {
+}
+2023-08-30 06:55:37 +0000  Writing entitlements for <IDEDistributionItem: 0x600067567960; bundleID='dev.hermesengine.iphoneos', path='<DVTFilePath:0x60001f9b4f50:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/hermes.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000f0060d0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60003241def0; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='dev.hermesengine.iphoneos', executablePath='<DVTFilePath:0x600067522640:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/hermes.framework/hermes'>', hardenedRuntime='0'>'> to: /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/entitlements~~~VdMABM
+2023-08-30 06:55:37 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '63611E77D24E014297309837456FC26F05C2CCA8' '--entitlements' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/entitlements~~~VdMABM' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/hermes.framework'
+2023-08-30 06:55:37 +0000  /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/hermes.framework: replacing existing signature
+2023-08-30 06:55:37 +0000  /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/hermes.framework: signed bundle with Mach-O thin (arm64) [dev.hermesengine.iphoneos]
+2023-08-30 06:55:37 +0000  /usr/bin/codesign exited with 0
+2023-08-30 06:55:37 +0000  Entitlements for <IDEDistributionItem: 0x600067560a80; bundleID='com.apple.dt.runtime.swiftConcurrency', path='<DVTFilePath:0x60002fe41580:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/libswift_Concurrency.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000f038b40; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600032744fd0; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='com.apple.dt.runtime.swiftConcurrency', executablePath='<DVTFilePath:0x60002fe41580:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/libswift_Concurrency.dylib'>', hardenedRuntime='0'>'>: {
+}
+2023-08-30 06:55:37 +0000  Entitlements for <IDEDistributionItem: 0x600067560a80; bundleID='com.apple.dt.runtime.swiftConcurrency', path='<DVTFilePath:0x60002fe41580:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/libswift_Concurrency.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000f038b40; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600032747860; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='com.apple.dt.runtime.swiftConcurrency', executablePath='<DVTFilePath:0x60002fe41580:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/libswift_Concurrency.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2023-08-30 06:55:37 +0000  Writing entitlements for <IDEDistributionItem: 0x600067560a80; bundleID='com.apple.dt.runtime.swiftConcurrency', path='<DVTFilePath:0x60002fe41580:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/libswift_Concurrency.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000f038b40; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60003241fde0; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='com.apple.dt.runtime.swiftConcurrency', executablePath='<DVTFilePath:0x60002fe41580:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/libswift_Concurrency.dylib'>', hardenedRuntime='0'>'> to: /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/entitlements~~~v7YeqS
+2023-08-30 06:55:37 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '63611E77D24E014297309837456FC26F05C2CCA8' '--entitlements' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/entitlements~~~v7YeqS' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/libswift_Concurrency.dylib'
+2023-08-30 06:55:37 +0000  /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/libswift_Concurrency.dylib: replacing existing signature
+2023-08-30 06:55:37 +0000  /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/libswift_Concurrency.dylib: signed Mach-O thin (arm64) [com.apple.dt.runtime.swiftConcurrency]
+2023-08-30 06:55:37 +0000  /usr/bin/codesign exited with 0
+2023-08-30 06:55:37 +0000  Entitlements for <IDEDistributionItem: 0x60006756ebe0; bundleID='org.name.HMSPrebuiltSample', path='<DVTFilePath:0x60001f9a92d0:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000b342f80; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600032744fd0; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='{
+    "application-identifier" = "5N85PP82A9.org.name.HMSPrebuiltSample";
+    "com.apple.developer.team-identifier" = 5N85PP82A9;
+    "get-task-allow" = 1;
+}', teamID='5N85PP82A9', identifier='org.name.HMSPrebuiltSample', executablePath='<DVTFilePath:0x60001f9d5f10:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/HMSPrebuiltSample'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "5N85PP82A9.org.name.HMSPrebuiltSample";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = 5N85PP82A9;
+    "get-task-allow" = 0;
+}
+2023-08-30 06:55:37 +0000  Entitlements for <IDEDistributionItem: 0x60006756ebe0; bundleID='org.name.HMSPrebuiltSample', path='<DVTFilePath:0x60001f9a92d0:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000b342f80; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60003241cdc0; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='{
+    "application-identifier" = "5N85PP82A9.org.name.HMSPrebuiltSample";
+    "com.apple.developer.team-identifier" = 5N85PP82A9;
+    "get-task-allow" = 1;
+}', teamID='5N85PP82A9', identifier='org.name.HMSPrebuiltSample', executablePath='<DVTFilePath:0x60001f9d5f10:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/HMSPrebuiltSample'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "5N85PP82A9.org.name.HMSPrebuiltSample";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = 5N85PP82A9;
+    "get-task-allow" = 0;
+}
+2023-08-30 06:55:37 +0000  Writing entitlements for <IDEDistributionItem: 0x60006756ebe0; bundleID='org.name.HMSPrebuiltSample', path='<DVTFilePath:0x60001f9a92d0:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000b342f80; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60003241dfa0; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='{
+    "application-identifier" = "5N85PP82A9.org.name.HMSPrebuiltSample";
+    "com.apple.developer.team-identifier" = 5N85PP82A9;
+    "get-task-allow" = 1;
+}', teamID='5N85PP82A9', identifier='org.name.HMSPrebuiltSample', executablePath='<DVTFilePath:0x60001f9d5f10:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 12.25 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/HMSPrebuiltSample'>', hardenedRuntime='0'>'> to: /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/entitlements~~~i0FT3K
+2023-08-30 06:55:37 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '63611E77D24E014297309837456FC26F05C2CCA8' '--entitlements' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/entitlements~~~i0FT3K' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app'
+2023-08-30 06:55:37 +0000  /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app: replacing existing signature
+2023-08-30 06:55:37 +0000  /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app: signed app bundle with Mach-O thin (arm64) [org.name.HMSPrebuiltSample]
+2023-08-30 06:55:37 +0000  /usr/bin/codesign exited with 0
+2023-08-30 06:55:37 +0000  Processing step: IDEDistributionZipODRItemStep
+2023-08-30 06:55:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-08-30 06:55:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-08-30 06:55:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-08-30 06:55:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-08-30 06:55:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-08-30 06:55:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-08-30 06:55:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-08-30 06:55:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-08-30 06:55:37 +0000  Processing step: IDEDistributionCreateIPAStep
+2023-08-30 06:55:37 +0000  Running /usr/bin/rsync '-8aPhhE' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Symbols' '--link-dest' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root'
+2023-08-30 06:55:37 +0000  building file list ... 
+2023-08-30 06:55:37 +0000   0 files...2023-08-30 06:55:37 +0000  8 files to consider
+2023-08-30 06:55:37 +0000  Symbols/
+2023-08-30 06:55:37 +0000  
+2023-08-30 06:55:37 +0000  sent 467 bytes  received 26 bytes  986.00 bytes/sec
+total size is 15.12M  speedup is 32154.05
+2023-08-30 06:55:37 +0000  /usr/bin/rsync exited with 0
+2023-08-30 06:55:37 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Packages/HMSPrebuiltSample.ipa'
+2023-08-30 06:55:37 +0000  >>> Copying /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root 
+2023-08-30 06:55:37 +0000  copying file ./Payload/HMSPrebuiltSample.app/_CodeSignature/CodeResources ... 
+2023-08-30 06:55:37 +0000  10319 bytes for ./Payload/HMSPrebuiltSample.app/_CodeSignature/CodeResources
+2023-08-30 06:55:37 +0000  copying file ./Payload/HMSPrebuiltSample.app/SplashScreen.storyboardc/EXPO-VIEWCONTROLLER-1-view-EXPO-ContainerView.nib ... 
+2023-08-30 06:55:37 +0000  2242 bytes for ./Payload/HMSPrebuiltSample.app/SplashScreen.storyboardc/EXPO-VIEWCONTROLLER-1-view-EXPO-ContainerView.nib
+2023-08-30 06:55:37 +0000  copying file ./Payload/HMSPrebuiltSample.app/SplashScreen.storyboardc/SplashScreenViewController.nib ... 
+2023-08-30 06:55:37 +0000  976 bytes for ./Payload/HMSPrebuiltSample.app/SplashScreen.storyboardc/SplashScreenViewController.nib
+2023-08-30 06:55:37 +0000  copying file ./Payload/HMSPrebuiltSample.app/SplashScreen.storyboardc/Info.plist ... 
+2023-08-30 06:55:37 +0000  225 bytes for ./Payload/HMSPrebuiltSample.app/SplashScreen.storyboardc/Info.plist
+2023-08-30 06:55:37 +0000  copying file ./Payload/HMSPrebuiltSample.app/HMSPrebuiltSample ... 
+2023-08-30 06:55:37 +0000  4306176 bytes for ./Payload/HMSPrebuiltSample.app/HMSPrebuiltSample
+2023-08-30 06:55:37 +0000  copying file ./Payload/HMSPrebuiltSample.app/AccessibilityResources.bundle/en.lproj/Localizable.strings ... 
+518 bytes for ./Payload/HMSPrebuiltSample.app/AccessibilityResources.bundle/en.lproj/Localizable.strings
+copying file ./Payload/HMSPrebuiltSample.app/AccessibilityResources.bundle/Info.plist ... 
+793 bytes for ./Payload/HMSPrebuiltSample.app/AccessibilityResources.bundle/Info.plist
+copying file ./Payload/HMSPrebuiltSample.app/Assets.car ... 
+2023-08-30 06:55:37 +0000  35855 bytes for ./Payload/HMSPrebuiltSample.app/Assets.car
+copying file ./Payload/HMSPrebuiltSample.app/main.jsbundle ... 
+2023-08-30 06:55:37 +0000  1670391 bytes for ./Payload/HMSPrebuiltSample.app/main.jsbundle
+2023-08-30 06:55:37 +0000  copying file ./Payload/HMSPrebuiltSample.app/EXConstants.bundle/app.config ... 
+156 bytes for ./Payload/HMSPrebuiltSample.app/EXConstants.bundle/app.config
+copying file ./Payload/HMSPrebuiltSample.app/EXConstants.bundle/Info.plist ... 
+2023-08-30 06:55:37 +0000  769 bytes for ./Payload/HMSPrebuiltSample.app/EXConstants.bundle/Info.plist
+2023-08-30 06:55:37 +0000  copying file ./Payload/HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework/_CodeSignature/CodeResources ... 
+2023-08-30 06:55:37 +0000  1798 bytes for ./Payload/HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework/_CodeSignature/CodeResources
+copying file ./Payload/HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework/HMSHLSPlayerSDK ... 
+2023-08-30 06:55:37 +0000  169824 bytes for ./Payload/HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework/HMSHLSPlayerSDK
+copying file ./Payload/HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework/Info.plist ... 
+2023-08-30 06:55:37 +0000  889 bytes for ./Payload/HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework/Info.plist
+2023-08-30 06:55:37 +0000  copying file ./Payload/HMSPrebuiltSample.app/Frameworks/libswift_Concurrency.dylib ... 
+2023-08-30 06:55:37 +0000  557968 bytes for ./Payload/HMSPrebuiltSample.app/Frameworks/libswift_Concurrency.dylib
+2023-08-30 06:55:37 +0000  copying file ./Payload/HMSPrebuiltSample.app/Frameworks/HMSSDK.framework/_CodeSignature/CodeResources ... 
+2023-08-30 06:55:37 +0000  1798 bytes for ./Payload/HMSPrebuiltSample.app/Frameworks/HMSSDK.framework/_CodeSignature/CodeResources
+2023-08-30 06:55:37 +0000  copying file ./Payload/HMSPrebuiltSample.app/Frameworks/HMSSDK.framework/Info.plist ... 
+2023-08-30 06:55:37 +0000  742 bytes for ./Payload/HMSPrebuiltSample.app/Frameworks/HMSSDK.framework/Info.plist
+copying file ./Payload/HMSPrebuiltSample.app/Frameworks/HMSSDK.framework/HMSSDK ... 
+2023-08-30 06:55:37 +0000  2410368 bytes for ./Payload/HMSPrebuiltSample.app/Frameworks/HMSSDK.framework/HMSSDK
+2023-08-30 06:55:37 +0000  copying file ./Payload/HMSPrebuiltSample.app/Frameworks/WebRTC.framework/_CodeSignature/CodeResources ... 
+1871 bytes for ./Payload/HMSPrebuiltSample.app/Frameworks/WebRTC.framework/_CodeSignature/CodeResources
+copying file ./Payload/HMSPrebuiltSample.app/Frameworks/WebRTC.framework/.DS_Store ... 
+6148 bytes for ./Payload/HMSPrebuiltSample.app/Frameworks/WebRTC.framework/.DS_Store
+copying file ./Payload/HMSPrebuiltSample.app/Frameworks/WebRTC.framework/WebRTC ... 
+2023-08-30 06:55:38 +0000  7364192 bytes for ./Payload/HMSPrebuiltSample.app/Frameworks/WebRTC.framework/WebRTC
+2023-08-30 06:55:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/Frameworks/WebRTC.framework/Info.plist ... 
+758 bytes for ./Payload/HMSPrebuiltSample.app/Frameworks/WebRTC.framework/Info.plist
+copying file ./Payload/HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework/_CodeSignature/CodeResources ... 
+1798 bytes for ./Payload/HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework/_CodeSignature/CodeResources
+copying file ./Payload/HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework/HMSBroadcastExtensionSDK ... 
+2023-08-30 06:55:38 +0000  182736 bytes for ./Payload/HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework/HMSBroadcastExtensionSDK
+copying file ./Payload/HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework/Info.plist ... 
+2023-08-30 06:55:38 +0000  776 bytes for ./Payload/HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework/Info.plist
+2023-08-30 06:55:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework/_CodeSignature/CodeResources ... 
+2023-08-30 06:55:38 +0000  1798 bytes for ./Payload/HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework/_CodeSignature/CodeResources
+2023-08-30 06:55:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework/HMSAnalyticsSDK ... 
+2023-08-30 06:55:38 +0000  106256 bytes for ./Payload/HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework/HMSAnalyticsSDK
+copying file ./Payload/HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework/Info.plist ... 
+2023-08-30 06:55:38 +0000  889 bytes for ./Payload/HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework/Info.plist
+2023-08-30 06:55:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/Frameworks/hermes.framework/_CodeSignature/CodeResources ... 
+2023-08-30 06:55:38 +0000  1798 bytes for ./Payload/HMSPrebuiltSample.app/Frameworks/hermes.framework/_CodeSignature/CodeResources
+2023-08-30 06:55:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/Frameworks/hermes.framework/hermes ... 
+2023-08-30 06:55:38 +0000  3240672 bytes for ./Payload/HMSPrebuiltSample.app/Frameworks/hermes.framework/hermes
+2023-08-30 06:55:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/Frameworks/hermes.framework/Info.plist ... 
+807 bytes for ./Payload/HMSPrebuiltSample.app/Frameworks/hermes.framework/Info.plist
+copying file ./Payload/HMSPrebuiltSample.app/embedded.mobileprovision ... 
+2023-08-30 06:55:38 +0000  14480 bytes for ./Payload/HMSPrebuiltSample.app/embedded.mobileprovision
+copying file ./Payload/HMSPrebuiltSample.app/Info.plist ... 
+2023-08-30 06:55:38 +0000  1631 bytes for ./Payload/HMSPrebuiltSample.app/Info.plist
+2023-08-30 06:55:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/Expo.plist ... 
+133 bytes for ./Payload/HMSPrebuiltSample.app/Expo.plist
+2023-08-30 06:55:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/PkgInfo ... 
+8 bytes for ./Payload/HMSPrebuiltSample.app/PkgInfo
+2023-08-30 06:55:38 +0000  copying file ./SwiftSupport/iphoneos/libswift_Concurrency.dylib ... 
+2023-08-30 06:55:38 +0000  7741808 bytes for ./SwiftSupport/iphoneos/libswift_Concurrency.dylib
+2023-08-30 06:55:38 +0000  copying file ./Symbols/249B2B8E-BF47-3411-A979-71AF14681D5D.symbols ... 
+2023-08-30 06:55:38 +0000  288420 bytes for ./Symbols/249B2B8E-BF47-3411-A979-71AF14681D5D.symbols
+2023-08-30 06:55:38 +0000  copying file ./Symbols/46E9B8AA-84D6-3DAF-BA54-9B4D401E478E.symbols ... 
+2023-08-30 06:55:38 +0000  22604 bytes for ./Symbols/46E9B8AA-84D6-3DAF-BA54-9B4D401E478E.symbols
+copying file ./Symbols/097C41D6-3907-3CE6-94BD-3E86B3C03F8D.symbols ... 
+2023-08-30 06:55:38 +0000  13423628 bytes for ./Symbols/097C41D6-3907-3CE6-94BD-3E86B3C03F8D.symbols
+2023-08-30 06:55:38 +0000  copying file ./Symbols/1ACF90BF-F56F-35BA-87BE-890C8674BC35.symbols ... 
+2023-08-30 06:55:38 +0000  49484 bytes for ./Symbols/1ACF90BF-F56F-35BA-87BE-890C8674BC35.symbols
+2023-08-30 06:55:38 +0000  copying file ./Symbols/6E1281F4-5F7E-39B8-9452-140AB18FF7CC.symbols ... 
+2023-08-30 06:55:38 +0000  34428 bytes for ./Symbols/6E1281F4-5F7E-39B8-9452-140AB18FF7CC.symbols
+copying file ./Symbols/4C4C44AA-5555-3144-A1B9-66270F9D0079.symbols ... 
+2023-08-30 06:55:38 +0000  1389292 bytes for ./Symbols/4C4C44AA-5555-3144-A1B9-66270F9D0079.symbols
+2023-08-30 06:55:38 +0000  copying file ./Symbols/551DF34D-4668-3E2F-87BC-AA39FF28B5C3.symbols ... 
+2023-08-30 06:55:38 +0000  644092 bytes for ./Symbols/551DF34D-4668-3E2F-87BC-AA39FF28B5C3.symbols
+2023-08-30 06:55:38 +0000  /usr/bin/ditto exited with 0
+2023-08-30 06:55:38 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2023-08-30 06:55:38 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2023-08-30 06:55:38 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2023-08-30 06:55:38 +0000  IDEDistributionItem init <DVTFilePath:0x600013cee480:'/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework'>
+2023-08-30 06:55:38 +0000  IDEDistributionItem init <DVTFilePath:0x60003b8fd420:'/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/WebRTC.framework'>
+2023-08-30 06:55:38 +0000  IDEDistributionItem init <DVTFilePath:0x600013ced280:'/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework'>
+2023-08-30 06:55:38 +0000  IDEDistributionItem init <DVTFilePath:0x60003b8fd030:'/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSSDK.framework'>
+2023-08-30 06:55:38 +0000  IDEDistributionItem init <DVTFilePath:0x600013ceda00:'/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework'>
+2023-08-30 06:55:38 +0000  IDEDistributionItem init <DVTFilePath:0x60002fe26c80:'/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/libswift_Concurrency.dylib'>
+2023-08-30 06:55:38 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x60002fe26c80:'/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/libswift_Concurrency.dylib'>
+2023-08-30 06:55:38 +0000  IDEDistributionItem init <DVTFilePath:0x60003b8fdc70:'/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app/Frameworks/hermes.framework'>
+2023-08-30 06:55:38 +0000  IDEDistributionItem init <DVTFilePath:0x60001f9d6760:'/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~a1mF2V/Root/Payload/HMSPrebuiltSample.app'>
+2023-08-30 06:55:38 +0000  Processing step: IDEDistributionCreateManifestStep
+2023-08-30 06:55:38 +0000  Skipping step: IDEDistributionCreateManifestStep because it said so

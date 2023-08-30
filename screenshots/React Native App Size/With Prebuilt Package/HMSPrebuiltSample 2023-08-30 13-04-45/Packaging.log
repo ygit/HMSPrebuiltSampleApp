@@ -1,0 +1,1299 @@
+2023-08-30 07:34:35 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x17d1842a0; archive(resolved)="<IDEArchive: 0x600016b52280>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodiOSAppStoreDistribution: 0x60004cde3030>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0x600005a21f80; teamID='5N85PP82A9', teamName='BRYTECAM TECHNOLOGIES PRIVATE LIMITED', teamType='Company', username='yogesh@100ms.live', isFreeProvisioningTeam='0'>">
+	Chain (16, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x17d1842a0; archive = "<IDEArchive: 0x600016b52280>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x60004cde3030>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600005a21f80; teamID='5N85PP82A9', teamName='BRYTECAM TECHNOLOGIES PRIVATE LIMITED', teamType='Company', username='yogesh@100ms.live', isFreeProvisioningTeam='0'>">
+	<IDEDistributionProcessingPipelineContext: 0x11e62fa70; archive = "<IDEArchive: 0x600016b52280>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x60004cde3030>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600005a21f80; teamID='5N85PP82A9', teamName='BRYTECAM TECHNOLOGIES PRIVATE LIMITED', teamType='Company', username='yogesh@100ms.live', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x111e3c220; archive = "<IDEArchive: 0x600016b52280>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x60004cde3030>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600005a21f80; teamID='5N85PP82A9', teamName='BRYTECAM TECHNOLOGIES PRIVATE LIMITED', teamType='Company', username='yogesh@100ms.live', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x10a7041c0; archive = "<IDEArchive: 0x600016b52280>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x60004cde3030>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600005a21f80; teamID='5N85PP82A9', teamName='BRYTECAM TECHNOLOGIES PRIVATE LIMITED', teamType='Company', username='yogesh@100ms.live', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x1389054f0; archive = "<IDEArchive: 0x600016b52280>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x60004cde3030>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600005a21f80; teamID='5N85PP82A9', teamName='BRYTECAM TECHNOLOGIES PRIVATE LIMITED', teamType='Company', username='yogesh@100ms.live', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x138916cd0; archive = "<IDEArchive: 0x600016b52280>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x60004cde3030>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600005a21f80; teamID='5N85PP82A9', teamName='BRYTECAM TECHNOLOGIES PRIVATE LIMITED', teamType='Company', username='yogesh@100ms.live', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x138a35f50; archive = "<IDEArchive: 0x600016b52280>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x60004cde3030>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600005a21f80; teamID='5N85PP82A9', teamName='BRYTECAM TECHNOLOGIES PRIVATE LIMITED', teamType='Company', username='yogesh@100ms.live', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x1101de3b0; archive = "<IDEArchive: 0x600016b52280>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x60004cde3030>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600005a21f80; teamID='5N85PP82A9', teamName='BRYTECAM TECHNOLOGIES PRIVATE LIMITED', teamType='Company', username='yogesh@100ms.live', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x11010cc50; archive = "<IDEArchive: 0x600016b52280>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x60004cde3030>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600005a21f80; teamID='5N85PP82A9', teamName='BRYTECAM TECHNOLOGIES PRIVATE LIMITED', teamType='Company', username='yogesh@100ms.live', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x1389544c0; archive = "<IDEArchive: 0x600016b52280>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x60004cde3030>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600005a21f80; teamID='5N85PP82A9', teamName='BRYTECAM TECHNOLOGIES PRIVATE LIMITED', teamType='Company', username='yogesh@100ms.live', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2a640bb60; archive = "<IDEArchive: 0x600016b52280>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x60004cde3030>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600005a21f80; teamID='5N85PP82A9', teamName='BRYTECAM TECHNOLOGIES PRIVATE LIMITED', teamType='Company', username='yogesh@100ms.live', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2a38ff8e0; archive = "<IDEArchive: 0x600016b52280>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x60004cde3030>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600005a21f80; teamID='5N85PP82A9', teamName='BRYTECAM TECHNOLOGIES PRIVATE LIMITED', teamType='Company', username='yogesh@100ms.live', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2a3975570; archive = "<IDEArchive: 0x600016b52280>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x60004cde3030>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600005a21f80; teamID='5N85PP82A9', teamName='BRYTECAM TECHNOLOGIES PRIVATE LIMITED', teamType='Company', username='yogesh@100ms.live', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2a38e36c0; archive = "<IDEArchive: 0x600016b52280>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x60004cde3030>", team="(null)">
+	<IDEDistributionContext: 0x2a644f170; archive = "<IDEArchive: 0x600016b52280>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x60004cde3030>", team="(null)">
+	<IDEDistributionContext: 0x2a3948100; archive = "<IDEArchive: 0x600016b52280>", distributionMethod="(null)", team="(null)">
+</IDEDistributionProcessingPipelineContext: 0x17d1842a0>
+2023-08-30 07:34:35 +0000  Processing step: IDEDistributionCreateDestRootStep
+2023-08-30 07:34:35 +0000  Processing step: IDEDistributionCopyItemStep
+2023-08-30 07:34:35 +0000  Running /usr/bin/ditto '-V' '/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app'
+2023-08-30 07:34:35 +0000  >>> Copying /Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app 
+2023-08-30 07:34:35 +0000  copying file ./_CodeSignature/CodeResources ... 
+2023-08-30 07:34:35 +0000  57511 bytes for ./_CodeSignature/CodeResources
+2023-08-30 07:34:35 +0000  copying file ./Fontisto.ttf ... 
+2023-08-30 07:34:35 +0000  313528 bytes for ./Fontisto.ttf
+2023-08-30 07:34:35 +0000  copying file ./Octicons.ttf ... 
+2023-08-30 07:34:35 +0000  49404 bytes for ./Octicons.ttf
+2023-08-30 07:34:35 +0000  copying file ./Feather.ttf ... 
+2023-08-30 07:34:35 +0000  56228 bytes for ./Feather.ttf
+2023-08-30 07:34:35 +0000  copying file ./SplashScreen.storyboardc/EXPO-VIEWCONTROLLER-1-view-EXPO-ContainerView.nib ... 
+2023-08-30 07:34:35 +0000  2242 bytes for ./SplashScreen.storyboardc/EXPO-VIEWCONTROLLER-1-view-EXPO-ContainerView.nib
+2023-08-30 07:34:35 +0000  copying file ./SplashScreen.storyboardc/SplashScreenViewController.nib ... 
+2023-08-30 07:34:35 +0000  976 bytes for ./SplashScreen.storyboardc/SplashScreenViewController.nib
+2023-08-30 07:34:35 +0000  copying file ./SplashScreen.storyboardc/Info.plist ... 
+2023-08-30 07:34:35 +0000  225 bytes for ./SplashScreen.storyboardc/Info.plist
+2023-08-30 07:34:35 +0000  copying file ./HMSPrebuiltSample ... 
+2023-08-30 07:34:35 +0000  4736544 bytes for ./HMSPrebuiltSample
+2023-08-30 07:34:35 +0000  copying file ./Entypo.ttf ... 
+66200 bytes for ./Entypo.ttf
+copying file ./FontAwesome5_Brands.ttf ... 
+2023-08-30 07:34:35 +0000  134040 bytes for ./FontAwesome5_Brands.ttf
+2023-08-30 07:34:35 +0000  copying file ./MaterialCommunityIcons.ttf ... 
+2023-08-30 07:34:35 +0000  1147844 bytes for ./MaterialCommunityIcons.ttf
+2023-08-30 07:34:35 +0000  copying file ./AntDesign.ttf ... 
+2023-08-30 07:34:35 +0000  70344 bytes for ./AntDesign.ttf
+2023-08-30 07:34:35 +0000  copying file ./Foundation.ttf ... 
+2023-08-30 07:34:35 +0000  56976 bytes for ./Foundation.ttf
+2023-08-30 07:34:35 +0000  copying file ./Ionicons.ttf ... 
+2023-08-30 07:34:35 +0000  247192 bytes for ./Ionicons.ttf
+2023-08-30 07:34:35 +0000  copying file ./FontAwesome5_Solid.ttf ... 
+2023-08-30 07:34:35 +0000  202744 bytes for ./FontAwesome5_Solid.ttf
+2023-08-30 07:34:35 +0000  copying file ./FontAwesome5_Regular.ttf ... 
+2023-08-30 07:34:35 +0000  33736 bytes for ./FontAwesome5_Regular.ttf
+2023-08-30 07:34:35 +0000  copying file ./AccessibilityResources.bundle/en.lproj/Localizable.strings ... 
+2023-08-30 07:34:35 +0000  518 bytes for ./AccessibilityResources.bundle/en.lproj/Localizable.strings
+2023-08-30 07:34:35 +0000  copying file ./AccessibilityResources.bundle/Info.plist ... 
+2023-08-30 07:34:35 +0000  793 bytes for ./AccessibilityResources.bundle/Info.plist
+2023-08-30 07:34:35 +0000  copying file ./FontAwesome.ttf ... 
+2023-08-30 07:34:35 +0000  165548 bytes for ./FontAwesome.ttf
+2023-08-30 07:34:35 +0000  copying file ./Zocial.ttf ... 
+2023-08-30 07:34:35 +0000  25788 bytes for ./Zocial.ttf
+2023-08-30 07:34:35 +0000  copying file ./Assets.car ... 
+2023-08-30 07:34:35 +0000  35855 bytes for ./Assets.car
+2023-08-30 07:34:35 +0000  copying file ./EvilIcons.ttf ... 
+2023-08-30 07:34:35 +0000  13456 bytes for ./EvilIcons.ttf
+2023-08-30 07:34:35 +0000  copying file ./main.jsbundle ... 
+2023-08-30 07:34:35 +0000  3543667 bytes for ./main.jsbundle
+2023-08-30 07:34:35 +0000  copying file ./EXConstants.bundle/app.config ... 
+156 bytes for ./EXConstants.bundle/app.config
+copying file ./EXConstants.bundle/Info.plist ... 
+769 bytes for ./EXConstants.bundle/Info.plist
+copying file ./Frameworks/HMSHLSPlayerSDK.framework/_CodeSignature/CodeResources ... 
+2023-08-30 07:34:35 +0000  1798 bytes for ./Frameworks/HMSHLSPlayerSDK.framework/_CodeSignature/CodeResources
+2023-08-30 07:34:35 +0000  copying file ./Frameworks/HMSHLSPlayerSDK.framework/HMSHLSPlayerSDK ... 
+2023-08-30 07:34:35 +0000  169520 bytes for ./Frameworks/HMSHLSPlayerSDK.framework/HMSHLSPlayerSDK
+2023-08-30 07:34:35 +0000  copying file ./Frameworks/HMSHLSPlayerSDK.framework/Info.plist ... 
+2023-08-30 07:34:35 +0000  891 bytes for ./Frameworks/HMSHLSPlayerSDK.framework/Info.plist
+2023-08-30 07:34:35 +0000  copying file ./Frameworks/libswift_Concurrency.dylib ... 
+2023-08-30 07:34:35 +0000  557584 bytes for ./Frameworks/libswift_Concurrency.dylib
+2023-08-30 07:34:35 +0000  copying file ./Frameworks/HMSSDK.framework/_CodeSignature/CodeResources ... 
+2023-08-30 07:34:35 +0000  1798 bytes for ./Frameworks/HMSSDK.framework/_CodeSignature/CodeResources
+2023-08-30 07:34:35 +0000  copying file ./Frameworks/HMSSDK.framework/Info.plist ... 
+2023-08-30 07:34:35 +0000  744 bytes for ./Frameworks/HMSSDK.framework/Info.plist
+2023-08-30 07:34:35 +0000  copying file ./Frameworks/HMSSDK.framework/HMSSDK ... 
+2023-08-30 07:34:35 +0000  2834112 bytes for ./Frameworks/HMSSDK.framework/HMSSDK
+2023-08-30 07:34:35 +0000  copying file ./Frameworks/WebRTC.framework/_CodeSignature/CodeResources ... 
+1871 bytes for ./Frameworks/WebRTC.framework/_CodeSignature/CodeResources
+copying file ./Frameworks/WebRTC.framework/.DS_Store ... 
+6148 bytes for ./Frameworks/WebRTC.framework/.DS_Store
+copying file ./Frameworks/WebRTC.framework/WebRTC ... 
+2023-08-30 07:34:35 +0000  7363904 bytes for ./Frameworks/WebRTC.framework/WebRTC
+2023-08-30 07:34:35 +0000  copying file ./Frameworks/WebRTC.framework/Info.plist ... 
+762 bytes for ./Frameworks/WebRTC.framework/Info.plist
+copying file ./Frameworks/HMSBroadcastExtensionSDK.framework/_CodeSignature/CodeResources ... 
+1798 bytes for ./Frameworks/HMSBroadcastExtensionSDK.framework/_CodeSignature/CodeResources
+copying file ./Frameworks/HMSBroadcastExtensionSDK.framework/HMSBroadcastExtensionSDK ... 
+182448 bytes for ./Frameworks/HMSBroadcastExtensionSDK.framework/HMSBroadcastExtensionSDK
+copying file ./Frameworks/HMSBroadcastExtensionSDK.framework/Info.plist ... 
+779 bytes for ./Frameworks/HMSBroadcastExtensionSDK.framework/Info.plist
+2023-08-30 07:34:35 +0000  copying file ./Frameworks/HMSAnalyticsSDK.framework/_CodeSignature/CodeResources ... 
+2023-08-30 07:34:35 +0000  1798 bytes for ./Frameworks/HMSAnalyticsSDK.framework/_CodeSignature/CodeResources
+2023-08-30 07:34:35 +0000  copying file ./Frameworks/HMSAnalyticsSDK.framework/HMSAnalyticsSDK ... 
+2023-08-30 07:34:35 +0000  105952 bytes for ./Frameworks/HMSAnalyticsSDK.framework/HMSAnalyticsSDK
+2023-08-30 07:34:35 +0000  copying file ./Frameworks/HMSAnalyticsSDK.framework/Info.plist ... 
+2023-08-30 07:34:35 +0000  891 bytes for ./Frameworks/HMSAnalyticsSDK.framework/Info.plist
+2023-08-30 07:34:35 +0000  copying file ./Frameworks/hermes.framework/_CodeSignature/CodeResources ... 
+2023-08-30 07:34:35 +0000  1798 bytes for ./Frameworks/hermes.framework/_CodeSignature/CodeResources
+2023-08-30 07:34:35 +0000  copying file ./Frameworks/hermes.framework/hermes ... 
+2023-08-30 07:34:35 +0000  508276416 bytes for ./Frameworks/hermes.framework/hermes
+2023-08-30 07:34:35 +0000  copying file ./Frameworks/hermes.framework/Info.plist ... 
+2023-08-30 07:34:35 +0000  815 bytes for ./Frameworks/hermes.framework/Info.plist
+2023-08-30 07:34:35 +0000  copying file ./SimpleLineIcons.ttf ... 
+2023-08-30 07:34:35 +0000  54056 bytes for ./SimpleLineIcons.ttf
+2023-08-30 07:34:35 +0000  copying file ./embedded.mobileprovision ... 
+2023-08-30 07:34:35 +0000  42858 bytes for ./embedded.mobileprovision
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@expo/vector-icons/build/vendor/react-native-vector-icons/Fonts/Feather.ttf ... 
+2023-08-30 07:34:35 +0000  56228 bytes for ./assets/node_modules/@expo/vector-icons/build/vendor/react-native-vector-icons/Fonts/Feather.ttf
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@expo/vector-icons/build/vendor/react-native-vector-icons/Fonts/Entypo.ttf ... 
+2023-08-30 07:34:35 +0000  66200 bytes for ./assets/node_modules/@expo/vector-icons/build/vendor/react-native-vector-icons/Fonts/Entypo.ttf
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@expo/vector-icons/build/vendor/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf ... 
+2023-08-30 07:34:35 +0000  1147844 bytes for ./assets/node_modules/@expo/vector-icons/build/vendor/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@expo/vector-icons/build/vendor/react-native-vector-icons/Fonts/Ionicons.ttf ... 
+2023-08-30 07:34:35 +0000  247192 bytes for ./assets/node_modules/@expo/vector-icons/build/vendor/react-native-vector-icons/Fonts/Ionicons.ttf
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@expo/vector-icons/build/vendor/react-native-vector-icons/Fonts/MaterialIcons.ttf ... 
+2023-08-30 07:34:35 +0000  230384 bytes for ./assets/node_modules/@expo/vector-icons/build/vendor/react-native-vector-icons/Fonts/MaterialIcons.ttf
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Settings/assets/settings.png ... 
+2023-08-30 07:34:35 +0000  389 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Settings/assets/settings.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Settings/assets/settings@2x.png ... 
+2023-08-30 07:34:35 +0000  627 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Settings/assets/settings@2x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Settings/assets/settings@3x.png ... 
+2023-08-30 07:34:35 +0000  799 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Settings/assets/settings@3x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Hand/assets/hand@2x.png ... 
+2023-08-30 07:34:35 +0000  547 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Hand/assets/hand@2x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Hand/assets/hand@3x.png ... 
+2023-08-30 07:34:35 +0000  677 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Hand/assets/hand@3x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Hand/assets/hand.png ... 
+2023-08-30 07:34:35 +0000  374 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Hand/assets/hand.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Participants/assets/participants@2x.png ... 
+2023-08-30 07:34:35 +0000  618 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Participants/assets/participants@2x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Participants/assets/participants@3x.png ... 
+2023-08-30 07:34:35 +0000  792 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Participants/assets/participants@3x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Participants/assets/participants.png ... 
+2023-08-30 07:34:35 +0000  422 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Participants/assets/participants.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Chevron/assets/chevron-down.png ... 
+2023-08-30 07:34:35 +0000  193 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Chevron/assets/chevron-down.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Chevron/assets/chevron-left.png ... 
+2023-08-30 07:34:35 +0000  175 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Chevron/assets/chevron-left.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Chevron/assets/chevron-left@2x.png ... 
+2023-08-30 07:34:35 +0000  214 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Chevron/assets/chevron-left@2x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Chevron/assets/chevron-down@2x.png ... 
+2023-08-30 07:34:35 +0000  237 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Chevron/assets/chevron-down@2x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Chevron/assets/chevron-down@3x.png ... 
+2023-08-30 07:34:35 +0000  294 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Chevron/assets/chevron-down@3x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Chevron/assets/chevron-left@3x.png ... 
+2023-08-30 07:34:35 +0000  261 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Chevron/assets/chevron-left@3x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Radio/assets/radio.png ... 
+2023-08-30 07:34:35 +0000  358 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Radio/assets/radio.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Radio/assets/radio@2x.png ... 
+2023-08-30 07:34:35 +0000  531 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Radio/assets/radio@2x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Radio/assets/radio@3x.png ... 
+2023-08-30 07:34:35 +0000  716 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Radio/assets/radio@3x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Close/assets/close@3x.png ... 
+2023-08-30 07:34:35 +0000  356 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Close/assets/close@3x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Close/assets/close@2x.png ... 
+2023-08-30 07:34:35 +0000  280 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Close/assets/close@2x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Close/assets/close.png ... 
+2023-08-30 07:34:35 +0000  208 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Close/assets/close.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/ScreenShare/assets/screen-share.png ... 
+2023-08-30 07:34:35 +0000  324 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/ScreenShare/assets/screen-share.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/ScreenShare/assets/screen-share@2x.png ... 
+2023-08-30 07:34:35 +0000  438 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/ScreenShare/assets/screen-share@2x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/ScreenShare/assets/screen-share@3x.png ... 
+2023-08-30 07:34:35 +0000  530 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/ScreenShare/assets/screen-share@3x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Chat/assets/chat@2x.png ... 
+2023-08-30 07:34:35 +0000  298 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Chat/assets/chat@2x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Chat/assets/chat@3x.png ... 
+2023-08-30 07:34:35 +0000  377 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Chat/assets/chat@3x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Chat/assets/chat.png ... 
+2023-08-30 07:34:35 +0000  252 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Chat/assets/chat.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Speaker/assets/speaker@3x.png ... 
+2023-08-30 07:34:35 +0000  611 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Speaker/assets/speaker@3x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Speaker/assets/speaker@2x.png ... 
+2023-08-30 07:34:35 +0000  499 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Speaker/assets/speaker@2x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Speaker/assets/speaker-large.png ... 
+2023-08-30 07:34:35 +0000  390 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Speaker/assets/speaker-large.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Speaker/assets/speaker-muted.png ... 
+2023-08-30 07:34:35 +0000  310 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Speaker/assets/speaker-muted.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Speaker/assets/speaker-large@2x.png ... 
+2023-08-30 07:34:35 +0000  575 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Speaker/assets/speaker-large@2x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Speaker/assets/speaker-large@3x.png ... 
+2023-08-30 07:34:35 +0000  747 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Speaker/assets/speaker-large@3x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Speaker/assets/speaker-muted@3x.png ... 
+2023-08-30 07:34:35 +0000  509 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Speaker/assets/speaker-muted@3x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Speaker/assets/speaker.png ... 
+2023-08-30 07:34:35 +0000  335 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Speaker/assets/speaker.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Speaker/assets/speaker-muted@2x.png ... 
+2023-08-30 07:34:35 +0000  425 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Speaker/assets/speaker-muted@2x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Person/assets/person.png ... 
+2023-08-30 07:34:35 +0000  386 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Person/assets/person.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Person/assets/person@3x.png ... 
+2023-08-30 07:34:35 +0000  703 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Person/assets/person@3x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Person/assets/person@2x.png ... 
+2023-08-30 07:34:35 +0000  544 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Person/assets/person@2x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Alert/assets/alert@3x.png ... 
+2023-08-30 07:34:35 +0000  533 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Alert/assets/alert@3x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Alert/assets/alert.png ... 
+2023-08-30 07:34:35 +0000  321 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Alert/assets/alert.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Alert/assets/alert@2x.png ... 
+2023-08-30 07:34:35 +0000  397 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Alert/assets/alert@2x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Camera/assets/camera-muted@3x.png ... 
+2023-08-30 07:34:35 +0000  574 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Camera/assets/camera-muted@3x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Camera/assets/camera-muted@2x.png ... 
+2023-08-30 07:34:35 +0000  461 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Camera/assets/camera-muted@2x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Camera/assets/camera-muted.png ... 
+2023-08-30 07:34:35 +0000  335 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Camera/assets/camera-muted.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Camera/assets/camera-unmuted@3x.png ... 
+2023-08-30 07:34:35 +0000  476 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Camera/assets/camera-unmuted@3x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Camera/assets/camera-unmuted@2x.png ... 
+2023-08-30 07:34:35 +0000  390 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Camera/assets/camera-unmuted@2x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Camera/assets/camera-unmuted.png ... 
+2023-08-30 07:34:35 +0000  319 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Camera/assets/camera-unmuted.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Mic/assets/mic-unmuted.png ... 
+2023-08-30 07:34:35 +0000  351 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Mic/assets/mic-unmuted.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Mic/assets/mic-muted@2x.png ... 
+2023-08-30 07:34:35 +0000  565 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Mic/assets/mic-muted@2x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Mic/assets/mic-unmuted@3x.png ... 
+2023-08-30 07:34:35 +0000  612 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Mic/assets/mic-unmuted@3x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Mic/assets/mic-unmuted@2x.png ... 
+2023-08-30 07:34:35 +0000  462 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Mic/assets/mic-unmuted@2x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Mic/assets/mic-muted@3x.png ... 
+2023-08-30 07:34:35 +0000  735 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Mic/assets/mic-muted@3x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Mic/assets/mic-muted.png ... 
+2023-08-30 07:34:35 +0000  389 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Mic/assets/mic-muted.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Headphones/assets/headphones.png ... 
+2023-08-30 07:34:35 +0000  317 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Headphones/assets/headphones.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Headphones/assets/headphones@3x.png ... 
+2023-08-30 07:34:35 +0000  594 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Headphones/assets/headphones@3x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Headphones/assets/headphones@2x.png ... 
+2023-08-30 07:34:35 +0000  460 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Headphones/assets/headphones@2x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/GenericLogo/assets/generic-logo@2x.png ... 
+2023-08-30 07:34:35 +0000  838 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/GenericLogo/assets/generic-logo@2x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/GenericLogo/assets/generic-logo@3x.png ... 
+2023-08-30 07:34:35 +0000  1120 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/GenericLogo/assets/generic-logo@3x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/GenericLogo/assets/generic-logo.png ... 
+2023-08-30 07:34:35 +0000  555 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/GenericLogo/assets/generic-logo.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/RotateCamera/assets/rotate-camera.png ... 
+2023-08-30 07:34:35 +0000  347 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/RotateCamera/assets/rotate-camera.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/RotateCamera/assets/rotate-camera@2x.png ... 
+2023-08-30 07:34:35 +0000  509 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/RotateCamera/assets/rotate-camera@2x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/RotateCamera/assets/rotate-camera@3x.png ... 
+2023-08-30 07:34:35 +0000  655 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/RotateCamera/assets/rotate-camera@3x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/End/assets/end.png ... 
+2023-08-30 07:34:35 +0000  294 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/End/assets/end.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/End/assets/end@2x.png ... 
+2023-08-30 07:34:35 +0000  411 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/End/assets/end@2x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/End/assets/end@3x.png ... 
+2023-08-30 07:34:35 +0000  506 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/End/assets/end@3x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_1@3x.png ... 
+2023-08-30 07:34:35 +0000  651 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_1@3x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_3@2x.png ... 
+2023-08-30 07:34:35 +0000  562 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_3@2x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_3@3x.png ... 
+2023-08-30 07:34:35 +0000  709 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_3@3x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_1@2x.png ... 
+2023-08-30 07:34:35 +0000  513 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_1@2x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_5@2x.png ... 
+2023-08-30 07:34:35 +0000  494 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_5@2x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_5@3x.png ... 
+2023-08-30 07:34:35 +0000  645 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_5@3x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_3.png ... 
+2023-08-30 07:34:35 +0000  383 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_3.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_2.png ... 
+2023-08-30 07:34:35 +0000  382 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_2.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_0.png ... 
+2023-08-30 07:34:35 +0000  482 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_0.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_2@2x.png ... 
+2023-08-30 07:34:35 +0000  570 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_2@2x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_1.png ... 
+2023-08-30 07:34:35 +0000  345 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_1.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_0@3x.png ... 
+2023-08-30 07:34:35 +0000  1041 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_0@3x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_0@2x.png ... 
+2023-08-30 07:34:35 +0000  785 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_0@2x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_5.png ... 
+2023-08-30 07:34:35 +0000  354 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_5.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_2@3x.png ... 
+2023-08-30 07:34:35 +0000  729 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_2@3x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_4.png ... 
+2023-08-30 07:34:35 +0000  354 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_4.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_4@2x.png ... 
+2023-08-30 07:34:35 +0000  494 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_4@2x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_4@3x.png ... 
+2023-08-30 07:34:35 +0000  646 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_4@3x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Bluetooth/assets/bluetooth-on.png ... 
+2023-08-30 07:34:35 +0000  311 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Bluetooth/assets/bluetooth-on.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Bluetooth/assets/bluetooth-on@2x.png ... 
+2023-08-30 07:34:35 +0000  451 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Bluetooth/assets/bluetooth-on@2x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Bluetooth/assets/bluetooth-on@3x.png ... 
+2023-08-30 07:34:35 +0000  564 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Bluetooth/assets/bluetooth-on@3x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/100ms/assets/hms-logo@3x.png ... 
+2023-08-30 07:34:35 +0000  12183 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/100ms/assets/hms-logo@3x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/100ms/assets/hms-logo@2x.png ... 
+2023-08-30 07:34:35 +0000  7015 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/100ms/assets/hms-logo@2x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/100ms/assets/hms-logo.png ... 
+2023-08-30 07:34:35 +0000  2986 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/100ms/assets/hms-logo.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/AnswerPhone/assets/answer-phone.png ... 
+2023-08-30 07:34:35 +0000  350 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/AnswerPhone/assets/answer-phone.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/AnswerPhone/assets/answer-phone@2x.png ... 
+2023-08-30 07:34:35 +0000  522 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/AnswerPhone/assets/answer-phone@2x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/AnswerPhone/assets/answer-phone@3x.png ... 
+2023-08-30 07:34:35 +0000  693 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/AnswerPhone/assets/answer-phone@3x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/ThreeDots/assets/three-dots-vertical@2x.png ... 
+2023-08-30 07:34:35 +0000  257 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/ThreeDots/assets/three-dots-vertical@2x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/ThreeDots/assets/three-dots-vertical@3x.png ... 
+2023-08-30 07:34:35 +0000  337 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/ThreeDots/assets/three-dots-vertical@3x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/ThreeDots/assets/three-dots-vertical.png ... 
+2023-08-30 07:34:35 +0000  196 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/ThreeDots/assets/three-dots-vertical.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Wave/assets/wave@3x.png ... 
+2023-08-30 07:34:35 +0000  372 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Wave/assets/wave@3x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Wave/assets/wave@2x.png ... 
+2023-08-30 07:34:35 +0000  334 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Wave/assets/wave@2x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Wave/assets/wave.png ... 
+2023-08-30 07:34:35 +0000  247 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Wave/assets/wave.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Send/assets/send@2x.png ... 
+2023-08-30 07:34:35 +0000  462 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Send/assets/send@2x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Send/assets/send@3x.png ... 
+2023-08-30 07:34:35 +0000  570 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Send/assets/send@3x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Send/assets/send.png ... 
+2023-08-30 07:34:35 +0000  346 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Send/assets/send.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Check/assets/check.png ... 
+2023-08-30 07:34:35 +0000  226 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Check/assets/check.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Check/assets/check@2x.png ... 
+2023-08-30 07:34:35 +0000  276 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Check/assets/check@2x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Check/assets/check@3x.png ... 
+2023-08-30 07:34:35 +0000  317 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Check/assets/check@3x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Leave/assets/leave@3x.png ... 
+2023-08-30 07:34:35 +0000  435 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Leave/assets/leave@3x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Leave/assets/leave@2x.png ... 
+2023-08-30 07:34:35 +0000  351 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Leave/assets/leave@2x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Leave/assets/leave.png ... 
+2023-08-30 07:34:35 +0000  285 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Leave/assets/leave.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Clock/assets/clock@3x.png ... 
+2023-08-30 07:34:35 +0000  21659 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Clock/assets/clock@3x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Clock/assets/clock@2x.png ... 
+2023-08-30 07:34:35 +0000  11312 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Clock/assets/clock@2x.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Clock/assets/clock.png ... 
+2023-08-30 07:34:35 +0000  4031 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Clock/assets/clock.png
+2023-08-30 07:34:35 +0000  copying file ./assets/node_modules/@100mslive/react-native-room-kit/src/assets/brb.png ... 
+2023-08-30 07:34:35 +0000  468 bytes for ./assets/node_modules/@100mslive/react-native-room-kit/src/assets/brb.png
+2023-08-30 07:34:35 +0000  copying file ./Info.plist ... 
+2023-08-30 07:34:35 +0000  2031 bytes for ./Info.plist
+2023-08-30 07:34:35 +0000  copying file ./Expo.plist ... 
+2023-08-30 07:34:35 +0000  133 bytes for ./Expo.plist
+2023-08-30 07:34:35 +0000  copying file ./PkgInfo ... 
+2023-08-30 07:34:35 +0000  8 bytes for ./PkgInfo
+2023-08-30 07:34:35 +0000  copying file ./MaterialIcons.ttf ... 
+2023-08-30 07:34:35 +0000  230384 bytes for ./MaterialIcons.ttf
+2023-08-30 07:34:35 +0000  /usr/bin/ditto exited with 0
+2023-08-30 07:34:35 +0000  Processing step: IDEDistributionEmbedProfileStep
+2023-08-30 07:34:35 +0000  Skipping profile for item: <IDEDistributionItem: 0x600016a806c0; bundleID='live.100ms.HMS.Analytics', path='<DVTFilePath:0x60000a286080:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600092c6ceb0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600003818c60; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='live.100ms.HMS.Analytics', executablePath='<DVTFilePath:0x60000e437790:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework/HMSAnalyticsSDK'>', hardenedRuntime='0'>'>
+2023-08-30 07:34:35 +0000  Skipping profile for item: <IDEDistributionItem: 0x600016a82040; bundleID='live.100ms.HMS.ScreenShare', path='<DVTFilePath:0x60000a286e80:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600092c59590; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600003818c60; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='live.100ms.HMS.ScreenShare', executablePath='<DVTFilePath:0x60000a314b80:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework/HMSBroadcastExtensionSDK'>', hardenedRuntime='0'>'>
+2023-08-30 07:34:35 +0000  Skipping profile for item: <IDEDistributionItem: 0x600016af52c0; bundleID='live.100ms.HMS.HLSPlayer', path='<DVTFilePath:0x60000a286f00:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600092c594f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600003818c60; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='live.100ms.HMS.HLSPlayer', executablePath='<DVTFilePath:0x60000e436a70:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework/HMSHLSPlayerSDK'>', hardenedRuntime='0'>'>
+2023-08-30 07:34:35 +0000  Skipping profile for item: <IDEDistributionItem: 0x600016af4c60; bundleID='live.100ms.HMS', path='<DVTFilePath:0x60000e48d6c0:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600092c62300; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600003818c60; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='live.100ms.HMS', executablePath='<DVTFilePath:0x600016a850e0:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSSDK.framework/HMSSDK'>', hardenedRuntime='0'>'>
+2023-08-30 07:34:35 +0000  Skipping profile for item: <IDEDistributionItem: 0x600016af5560; bundleID='org.webrtc.WebRTC', path='<DVTFilePath:0x60000e493b10:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/WebRTC.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600092c59220; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600003818c60; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='org.webrtc.WebRTC', executablePath='<DVTFilePath:0x600016a87a80:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/WebRTC.framework/WebRTC'>', hardenedRuntime='0'>'>
+2023-08-30 07:34:35 +0000  Skipping profile for item: <IDEDistributionItem: 0x600016a829a0; bundleID='dev.hermesengine.iphoneos', path='<DVTFilePath:0x60000e480150:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/hermes.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600092c6cd20; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600003818c60; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='dev.hermesengine.iphoneos', executablePath='<DVTFilePath:0x600016b483c0:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/hermes.framework/hermes'>', hardenedRuntime='0'>'>
+2023-08-30 07:34:35 +0000  Skipping profile for item: <IDEDistributionItem: 0x600016af5380; bundleID='com.apple.dt.runtime.swiftConcurrency', path='<DVTFilePath:0x60000a287000:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/libswift_Concurrency.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600092c5ada0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600003818c60; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='com.apple.dt.runtime.swiftConcurrency', executablePath='<DVTFilePath:0x60000a287000:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/libswift_Concurrency.dylib'>', hardenedRuntime='0'>'>
+2023-08-30 07:34:35 +0000  Processing step: IDEDistributionInfoPlistStep
+2023-08-30 07:34:35 +0000  Skipping setting DTXcodeBuildDistribution because toolsBuildVersionName was nil.
+2023-08-30 07:34:35 +0000  Skipping setting DTXcodeBuildDistribution because toolsBuildVersionName was nil.
+2023-08-30 07:34:35 +0000  Skipping setting DTXcodeBuildDistribution because toolsBuildVersionName was nil.
+2023-08-30 07:34:35 +0000  Skipping setting DTXcodeBuildDistribution because toolsBuildVersionName was nil.
+2023-08-30 07:34:35 +0000  Skipping setting DTXcodeBuildDistribution because toolsBuildVersionName was nil.
+2023-08-30 07:34:35 +0000  Skipping setting DTXcodeBuildDistribution because toolsBuildVersionName was nil.
+2023-08-30 07:34:35 +0000  No Info.plist file URL found for item at path "/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/libswift_Concurrency.dylib".
+2023-08-30 07:34:35 +0000  Skipping setting DTXcodeBuildDistribution because toolsBuildVersionName was nil.
+2023-08-30 07:34:35 +0000  Processing step: IDEDistributionItemRemovalStep
+2023-08-30 07:34:35 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2023-08-30 07:34:35 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2023-08-30 07:34:35 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2023-08-30 07:34:35 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2023-08-30 07:34:35 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2023-08-30 07:34:35 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/hermes.framework/hermes' '-r' '-keep_cs' '-o' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/hermes.framework/hermes'
+2023-08-30 07:34:35 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2023-08-30 07:34:35 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2023-08-30 07:34:36 +0000  Processing step: IDEDistributionSymbolsStep
+2023-08-30 07:34:36 +0000  Processing symbols for HMSAnalyticsSDK.framework
+2023-08-30 07:34:36 +0000  Running /usr/bin/rsync '-8aPhhE' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework' '--link-dest' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU'
+2023-08-30 07:34:36 +0000  building file list ... 
+2023-08-30 07:34:36 +0000   0 files...2023-08-30 07:34:36 +0000  5 files to consider
+2023-08-30 07:34:36 +0000  HMSAnalyticsSDK.framework/
+2023-08-30 07:34:36 +0000  HMSAnalyticsSDK.framework/_CodeSignature/
+rsync: link "/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/HMSAnalyticsSDK.framework/_CodeSignature/CodeResources" => /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework/_CodeSignature/CodeResources failed: Operation not permitted (1)
+2023-08-30 07:34:36 +0000  HMSAnalyticsSDK.framework/_CodeSignature/CodeResources
+2023-08-30 07:34:36 +0000  
+2023-08-30 07:34:36 +0000  sent 240 bytes  received 38 bytes  556.00 bytes/sec
+total size is 106.09K  speedup is 390.79
+2023-08-30 07:34:36 +0000  /usr/bin/rsync exited with 0
+2023-08-30 07:34:36 +0000  Running /usr/bin/rsync '-8aPhhE' '/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/dSYMs/' '--link-dest' '/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/dSYMs/' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU'
+2023-08-30 07:34:36 +0000  building file list ... 
+2023-08-30 07:34:36 +0000   0 files...2023-08-30 07:34:36 +0000  11 files to consider
+2023-08-30 07:34:36 +0000  ./
+2023-08-30 07:34:36 +0000  HMSPrebuiltSample.app.dSYM/
+HMSPrebuiltSample.app.dSYM/Contents/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/DWARF/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/Swift/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/Swift/aarch64/
+2023-08-30 07:34:36 +0000  
+2023-08-30 07:34:36 +0000  sent 399 bytes  received 62 bytes  922.00 bytes/sec
+total size is 50.03M  speedup is 113807.74
+2023-08-30 07:34:36 +0000  /usr/bin/rsync exited with 0
+2023-08-30 07:34:36 +0000  Writing /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Symbols/46E9B8AA-84D6-3DAF-BA54-9B4D401E478E.symbols
+2023-08-30 07:34:36 +0000  Processing symbols for HMSBroadcastExtensionSDK.framework
+2023-08-30 07:34:36 +0000  Running /usr/bin/rsync '-8aPhhE' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework' '--link-dest' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU'
+2023-08-30 07:34:36 +0000  building file list ... 
+2023-08-30 07:34:36 +0000   0 files...2023-08-30 07:34:36 +0000  5 files to consider
+2023-08-30 07:34:36 +0000  HMSBroadcastExtensionSDK.framework/
+2023-08-30 07:34:36 +0000  HMSBroadcastExtensionSDK.framework/_CodeSignature/
+rsync: link "/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/HMSBroadcastExtensionSDK.framework/_CodeSignature/CodeResources" => /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework/_CodeSignature/CodeResources failed: Operation not permitted (1)
+2023-08-30 07:34:36 +0000  HMSBroadcastExtensionSDK.framework/_CodeSignature/CodeResources
+2023-08-30 07:34:36 +0000  
+2023-08-30 07:34:36 +0000  sent 258 bytes  received 38 bytes  592.00 bytes/sec
+total size is 180.69K  speedup is 625.07
+2023-08-30 07:34:36 +0000  /usr/bin/rsync exited with 0
+2023-08-30 07:34:36 +0000  Running /usr/bin/rsync '-8aPhhE' '/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/dSYMs/' '--link-dest' '/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/dSYMs/' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU'
+2023-08-30 07:34:36 +0000  building file list ... 
+2023-08-30 07:34:36 +0000   0 files...2023-08-30 07:34:36 +0000  11 files to consider
+2023-08-30 07:34:36 +0000  ./
+2023-08-30 07:34:36 +0000  HMSPrebuiltSample.app.dSYM/
+HMSPrebuiltSample.app.dSYM/Contents/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/DWARF/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/Swift/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/Swift/aarch64/
+2023-08-30 07:34:36 +0000  
+2023-08-30 07:34:36 +0000  sent 423 bytes  received 86 bytes  1018.00 bytes/sec
+total size is 50.03M  speedup is 103075.38
+2023-08-30 07:34:36 +0000  /usr/bin/rsync exited with 0
+2023-08-30 07:34:36 +0000  Writing /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Symbols/1ACF90BF-F56F-35BA-87BE-890C8674BC35.symbols
+2023-08-30 07:34:36 +0000  Processing symbols for HMSHLSPlayerSDK.framework
+2023-08-30 07:34:36 +0000  Running /usr/bin/rsync '-8aPhhE' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework' '--link-dest' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU'
+2023-08-30 07:34:36 +0000  building file list ... 
+2023-08-30 07:34:36 +0000   0 files...2023-08-30 07:34:36 +0000  5 files to consider
+2023-08-30 07:34:36 +0000  HMSHLSPlayerSDK.framework/
+2023-08-30 07:34:36 +0000  HMSHLSPlayerSDK.framework/_CodeSignature/
+rsync: link "/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/HMSHLSPlayerSDK.framework/_CodeSignature/CodeResources" => /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework/_CodeSignature/CodeResources failed: Operation not permitted (1)
+2023-08-30 07:34:36 +0000  HMSHLSPlayerSDK.framework/_CodeSignature/CodeResources
+2023-08-30 07:34:36 +0000  
+2023-08-30 07:34:36 +0000  sent 240 bytes  received 38 bytes  556.00 bytes/sec
+total size is 168.17K  speedup is 619.45
+2023-08-30 07:34:36 +0000  /usr/bin/rsync exited with 0
+2023-08-30 07:34:36 +0000  Running /usr/bin/rsync '-8aPhhE' '/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/dSYMs/' '--link-dest' '/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/dSYMs/' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU'
+2023-08-30 07:34:36 +0000  building file list ... 
+2023-08-30 07:34:36 +0000   0 files...2023-08-30 07:34:36 +0000  11 files to consider
+2023-08-30 07:34:36 +0000  ./
+2023-08-30 07:34:36 +0000  HMSPrebuiltSample.app.dSYM/
+HMSPrebuiltSample.app.dSYM/Contents/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/DWARF/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/Swift/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/Swift/aarch64/
+2023-08-30 07:34:36 +0000  
+2023-08-30 07:34:36 +0000  sent 423 bytes  received 86 bytes  1018.00 bytes/sec
+total size is 50.03M  speedup is 103075.38
+2023-08-30 07:34:36 +0000  /usr/bin/rsync exited with 0
+2023-08-30 07:34:36 +0000  Writing /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Symbols/6E1281F4-5F7E-39B8-9452-140AB18FF7CC.symbols
+2023-08-30 07:34:36 +0000  Processing symbols for HMSSDK.framework
+2023-08-30 07:34:36 +0000  Running /usr/bin/rsync '-8aPhhE' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSSDK.framework' '--link-dest' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU'
+2023-08-30 07:34:36 +0000  building file list ... 
+2023-08-30 07:34:36 +0000   0 files...2023-08-30 07:34:36 +0000  5 files to consider
+2023-08-30 07:34:36 +0000  HMSSDK.framework/
+2023-08-30 07:34:36 +0000  HMSSDK.framework/_CodeSignature/
+rsync: link "/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/HMSSDK.framework/_CodeSignature/CodeResources" => /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSSDK.framework/_CodeSignature/CodeResources failed: Operation not permitted (1)
+2023-08-30 07:34:36 +0000  HMSSDK.framework/_CodeSignature/CodeResources
+2023-08-30 07:34:36 +0000  
+2023-08-30 07:34:36 +0000  sent 222 bytes  received 38 bytes  520.00 bytes/sec
+total size is 2.71M  speedup is 10910.20
+2023-08-30 07:34:36 +0000  /usr/bin/rsync exited with 0
+2023-08-30 07:34:36 +0000  Running /usr/bin/rsync '-8aPhhE' '/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/dSYMs/' '--link-dest' '/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/dSYMs/' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU'
+2023-08-30 07:34:36 +0000  building file list ... 
+2023-08-30 07:34:36 +0000   0 files...2023-08-30 07:34:36 +0000  11 files to consider
+2023-08-30 07:34:36 +0000  ./
+2023-08-30 07:34:36 +0000  HMSPrebuiltSample.app.dSYM/
+HMSPrebuiltSample.app.dSYM/Contents/
+2023-08-30 07:34:36 +0000  HMSPrebuiltSample.app.dSYM/Contents/Resources/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/DWARF/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/Swift/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/Swift/aarch64/
+2023-08-30 07:34:36 +0000  
+2023-08-30 07:34:36 +0000  sent 423 bytes  received 86 bytes  1018.00 bytes/sec
+total size is 50.03M  speedup is 103075.38
+2023-08-30 07:34:36 +0000  /usr/bin/rsync exited with 0
+2023-08-30 07:34:36 +0000  Writing /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Symbols/759E5DD0-5C72-3B8F-A8D3-A68DF948B34D.symbols
+2023-08-30 07:34:36 +0000  Processing symbols for WebRTC.framework
+2023-08-30 07:34:36 +0000  Running /usr/bin/rsync '-8aPhhE' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/WebRTC.framework' '--link-dest' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU'
+2023-08-30 07:34:36 +0000  building file list ... 
+2023-08-30 07:34:36 +0000   0 files...2023-08-30 07:34:36 +0000  6 files to consider
+2023-08-30 07:34:36 +0000  WebRTC.framework/
+2023-08-30 07:34:36 +0000  rsync: link "/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/WebRTC.framework/.DS_Store" => /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/WebRTC.framework/.DS_Store failed: Operation not permitted (1)
+2023-08-30 07:34:36 +0000  WebRTC.framework/.DS_Store
+WebRTC.framework/_CodeSignature/
+rsync: link "/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/WebRTC.framework/_CodeSignature/CodeResources" => /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/WebRTC.framework/_CodeSignature/CodeResources failed: Operation not permitted (1)
+2023-08-30 07:34:36 +0000  WebRTC.framework/_CodeSignature/CodeResources
+2023-08-30 07:34:36 +0000  
+2023-08-30 07:34:36 +0000  sent 253 bytes  received 44 bytes  594.00 bytes/sec
+total size is 7.03M  speedup is 24823.84
+2023-08-30 07:34:36 +0000  /usr/bin/rsync exited with 0
+2023-08-30 07:34:36 +0000  Running /usr/bin/rsync '-8aPhhE' '/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/dSYMs/' '--link-dest' '/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/dSYMs/' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU'
+2023-08-30 07:34:36 +0000  building file list ... 
+2023-08-30 07:34:36 +0000   0 files...2023-08-30 07:34:36 +0000  11 files to consider
+2023-08-30 07:34:36 +0000  ./
+2023-08-30 07:34:36 +0000  HMSPrebuiltSample.app.dSYM/
+HMSPrebuiltSample.app.dSYM/Contents/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/DWARF/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/Swift/
+2023-08-30 07:34:36 +0000  HMSPrebuiltSample.app.dSYM/Contents/Resources/Swift/aarch64/
+2023-08-30 07:34:36 +0000  
+2023-08-30 07:34:36 +0000  sent 423 bytes  received 86 bytes  1018.00 bytes/sec
+total size is 50.03M  speedup is 103075.38
+2023-08-30 07:34:36 +0000  /usr/bin/rsync exited with 0
+2023-08-30 07:34:36 +0000  Writing /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Symbols/4C4C44AA-5555-3144-A1B9-66270F9D0079.symbols
+2023-08-30 07:34:36 +0000  Processing symbols for hermes.framework
+2023-08-30 07:34:36 +0000  Running /usr/bin/rsync '-8aPhhE' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/hermes.framework' '--link-dest' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU'
+2023-08-30 07:34:36 +0000  building file list ... 
+2023-08-30 07:34:36 +0000   0 files...2023-08-30 07:34:36 +0000  5 files to consider
+2023-08-30 07:34:36 +0000  hermes.framework/
+2023-08-30 07:34:36 +0000  hermes.framework/_CodeSignature/
+rsync: link "/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/hermes.framework/_CodeSignature/CodeResources" => /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/hermes.framework/_CodeSignature/CodeResources failed: Operation not permitted (1)
+2023-08-30 07:34:36 +0000  hermes.framework/_CodeSignature/CodeResources
+2023-08-30 07:34:36 +0000  
+2023-08-30 07:34:36 +0000  sent 218 bytes  received 38 bytes  512.00 bytes/sec
+total size is 6.83M  speedup is 27960.93
+2023-08-30 07:34:36 +0000  /usr/bin/rsync exited with 0
+2023-08-30 07:34:36 +0000  Running /usr/bin/rsync '-8aPhhE' '/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/dSYMs/' '--link-dest' '/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/dSYMs/' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU'
+2023-08-30 07:34:36 +0000  building file list ... 
+2023-08-30 07:34:36 +0000   0 files...2023-08-30 07:34:36 +0000  11 files to consider
+2023-08-30 07:34:36 +0000  ./
+2023-08-30 07:34:36 +0000  HMSPrebuiltSample.app.dSYM/
+HMSPrebuiltSample.app.dSYM/Contents/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/DWARF/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/Swift/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/Swift/aarch64/
+2023-08-30 07:34:36 +0000  
+2023-08-30 07:34:36 +0000  sent 423 bytes  received 86 bytes  1018.00 bytes/sec
+total size is 50.03M  speedup is 103075.38
+2023-08-30 07:34:36 +0000  /usr/bin/rsync exited with 0
+2023-08-30 07:34:36 +0000  Writing /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Symbols/249B2B8E-BF47-3411-A979-71AF14681D5D.symbols
+2023-08-30 07:34:36 +0000  Excluding symbols for libswift_Concurrency.dylib
+2023-08-30 07:34:36 +0000  Processing symbols for HMSPrebuiltSample.app
+2023-08-30 07:34:36 +0000  Running /usr/bin/rsync '-8aPhhE' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app' '--link-dest' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU'
+2023-08-30 07:34:36 +0000  building file list ... 
+2023-08-30 07:34:36 +0000   0 files...2023-08-30 07:34:36 +0000   100 files...2023-08-30 07:34:36 +0000   200 files...2023-08-30 07:34:36 +0000  254 files to consider
+2023-08-30 07:34:36 +0000  HMSPrebuiltSample.app/
+2023-08-30 07:34:36 +0000  HMSPrebuiltSample.app/AccessibilityResources.bundle/
+HMSPrebuiltSample.app/AccessibilityResources.bundle/en.lproj/
+HMSPrebuiltSample.app/EXConstants.bundle/
+HMSPrebuiltSample.app/Frameworks/
+HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework/
+HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework/_CodeSignature/
+HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework/
+HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework/_CodeSignature/
+HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework/
+HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework/_CodeSignature/
+2023-08-30 07:34:36 +0000  HMSPrebuiltSample.app/Frameworks/HMSSDK.framework/
+HMSPrebuiltSample.app/Frameworks/HMSSDK.framework/_CodeSignature/
+HMSPrebuiltSample.app/Frameworks/WebRTC.framework/
+HMSPrebuiltSample.app/Frameworks/WebRTC.framework/_CodeSignature/
+HMSPrebuiltSample.app/Frameworks/hermes.framework/
+HMSPrebuiltSample.app/Frameworks/hermes.framework/_CodeSignature/
+HMSPrebuiltSample.app/SplashScreen.storyboardc/
+HMSPrebuiltSample.app/_CodeSignature/
+HMSPrebuiltSample.app/assets/
+HMSPrebuiltSample.app/assets/node_modules/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/100ms/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/100ms/assets/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Alert/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Alert/assets/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/AnswerPhone/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/AnswerPhone/assets/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Bluetooth/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Bluetooth/assets/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Camera/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Camera/assets/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Chat/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Chat/assets/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Check/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Check/assets/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Chevron/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Chevron/assets/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Clock/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Clock/assets/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Close/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Close/assets/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/End/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/End/assets/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/GenericLogo/
+2023-08-30 07:34:36 +0000  HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/GenericLogo/assets/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Hand/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Hand/assets/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Headphones/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Headphones/assets/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Leave/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Leave/assets/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Mic/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Mic/assets/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Participants/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Participants/assets/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Person/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Person/assets/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Radio/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Radio/assets/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/RotateCamera/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/RotateCamera/assets/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/ScreenShare/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/ScreenShare/assets/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Send/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Send/assets/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Settings/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Settings/assets/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Speaker/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Speaker/assets/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/ThreeDots/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/ThreeDots/assets/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Wave/
+HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Wave/assets/
+2023-08-30 07:34:36 +0000  HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/assets/
+HMSPrebuiltSample.app/assets/node_modules/@expo/
+HMSPrebuiltSample.app/assets/node_modules/@expo/vector-icons/
+HMSPrebuiltSample.app/assets/node_modules/@expo/vector-icons/build/
+HMSPrebuiltSample.app/assets/node_modules/@expo/vector-icons/build/vendor/
+HMSPrebuiltSample.app/assets/node_modules/@expo/vector-icons/build/vendor/react-native-vector-icons/
+HMSPrebuiltSample.app/assets/node_modules/@expo/vector-icons/build/vendor/react-native-vector-icons/Fonts/
+2023-08-30 07:34:36 +0000  
+2023-08-30 07:34:36 +0000  sent 6.20K bytes  received 536 bytes  13.45K bytes/sec
+total size is 30.05M  speedup is 4576.70
+2023-08-30 07:34:36 +0000  /usr/bin/rsync exited with 0
+2023-08-30 07:34:36 +0000  Running /usr/bin/rsync '-8aPhhE' '/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/dSYMs/' '--link-dest' '/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/dSYMs/' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU'
+2023-08-30 07:34:36 +0000  building file list ... 
+2023-08-30 07:34:36 +0000   0 files...2023-08-30 07:34:36 +0000  11 files to consider
+2023-08-30 07:34:36 +0000  ./
+2023-08-30 07:34:36 +0000  HMSPrebuiltSample.app.dSYM/
+HMSPrebuiltSample.app.dSYM/Contents/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/DWARF/
+2023-08-30 07:34:36 +0000  HMSPrebuiltSample.app.dSYM/Contents/Resources/Swift/
+HMSPrebuiltSample.app.dSYM/Contents/Resources/Swift/aarch64/
+2023-08-30 07:34:36 +0000  
+2023-08-30 07:34:36 +0000  sent 423 bytes  received 86 bytes  1018.00 bytes/sec
+total size is 50.03M  speedup is 103075.38
+2023-08-30 07:34:36 +0000  /usr/bin/rsync exited with 0
+2023-08-30 07:34:36 +0000  Writing /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Symbols/E8AB713D-D0B5-3217-B83C-CA01DD22D1D7.symbols
+2023-08-30 07:34:36 +0000  Processing step: IDEDistributionCopyAppleProvidedContentStep
+2023-08-30 07:34:36 +0000  Running /usr/bin/ditto '-V' '/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/SwiftSupport' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/SwiftSupport'
+2023-08-30 07:34:36 +0000  >>> Copying /Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/SwiftSupport 
+2023-08-30 07:34:36 +0000  copying file ./iphoneos/libswift_Concurrency.dylib ... 
+2023-08-30 07:34:36 +0000  10535439 bytes for ./iphoneos/libswift_Concurrency.dylib
+2023-08-30 07:34:36 +0000  /usr/bin/ditto exited with 0
+2023-08-30 07:34:36 +0000  Processing step: IDEDistributionAppThinningStep
+2023-08-30 07:34:36 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2023-08-30 07:34:36 +0000  Processing step: IDEDistributionArchThinningStep
+2023-08-30 07:34:36 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework/HMSAnalyticsSDK' '-verify_arch' 'arm64e'
+2023-08-30 07:34:36 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-08-30 07:34:36 +0000  Skipping architecture thinning for item "HMSAnalyticsSDK" because arch "arm64e" wasn't found
+2023-08-30 07:34:36 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework/HMSBroadcastExtensionSDK' '-verify_arch' 'arm64e'
+2023-08-30 07:34:36 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-08-30 07:34:36 +0000  Skipping architecture thinning for item "HMSBroadcastExtensionSDK" because arch "arm64e" wasn't found
+2023-08-30 07:34:36 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework/HMSHLSPlayerSDK' '-verify_arch' 'arm64e'
+2023-08-30 07:34:36 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-08-30 07:34:36 +0000  Skipping architecture thinning for item "HMSHLSPlayerSDK" because arch "arm64e" wasn't found
+2023-08-30 07:34:36 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSSDK.framework/HMSSDK' '-verify_arch' 'arm64e'
+2023-08-30 07:34:36 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-08-30 07:34:36 +0000  Skipping architecture thinning for item "HMSSDK" because arch "arm64e" wasn't found
+2023-08-30 07:34:36 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/WebRTC.framework/WebRTC' '-verify_arch' 'arm64e'
+2023-08-30 07:34:36 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-08-30 07:34:36 +0000  Skipping architecture thinning for item "WebRTC" because arch "arm64e" wasn't found
+2023-08-30 07:34:36 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/hermes.framework/hermes' '-verify_arch' 'arm64e'
+2023-08-30 07:34:36 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-08-30 07:34:36 +0000  Skipping architecture thinning for item "hermes" because arch "arm64e" wasn't found
+2023-08-30 07:34:36 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/libswift_Concurrency.dylib' '-verify_arch' 'arm64e'
+2023-08-30 07:34:36 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-08-30 07:34:36 +0000  Skipping architecture thinning for item "libswift_Concurrency.dylib" because arch "arm64e" wasn't found
+2023-08-30 07:34:36 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/HMSPrebuiltSample' '-verify_arch' 'arm64e'
+2023-08-30 07:34:36 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-08-30 07:34:36 +0000  Skipping architecture thinning for item "HMSPrebuiltSample" because arch "arm64e" wasn't found
+2023-08-30 07:34:36 +0000  Processing step: IDEDistributionODRStep
+2023-08-30 07:34:36 +0000  Processing step: IDEDistributionStripXattrsStep
+2023-08-30 07:34:36 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x600016a806c0; bundleID='live.100ms.HMS.Analytics', path='<DVTFilePath:0x60000a286080:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600092c6ceb0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000038f1130; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='live.100ms.HMS.Analytics', executablePath='<DVTFilePath:0x60000e437790:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework/HMSAnalyticsSDK'>', hardenedRuntime='0'>'>
+2023-08-30 07:34:36 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x600016a82040; bundleID='live.100ms.HMS.ScreenShare', path='<DVTFilePath:0x60000a286e80:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600092c59590; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000038f1130; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='live.100ms.HMS.ScreenShare', executablePath='<DVTFilePath:0x60000a314b80:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework/HMSBroadcastExtensionSDK'>', hardenedRuntime='0'>'>
+2023-08-30 07:34:36 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x600016af52c0; bundleID='live.100ms.HMS.HLSPlayer', path='<DVTFilePath:0x60000a286f00:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600092c594f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000038f1130; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='live.100ms.HMS.HLSPlayer', executablePath='<DVTFilePath:0x60000e436a70:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework/HMSHLSPlayerSDK'>', hardenedRuntime='0'>'>
+2023-08-30 07:34:36 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x600016af4c60; bundleID='live.100ms.HMS', path='<DVTFilePath:0x60000e48d6c0:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600092c62300; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000038f1130; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='live.100ms.HMS', executablePath='<DVTFilePath:0x600016a850e0:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSSDK.framework/HMSSDK'>', hardenedRuntime='0'>'>
+2023-08-30 07:34:36 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x600016af5560; bundleID='org.webrtc.WebRTC', path='<DVTFilePath:0x60000e493b10:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/WebRTC.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600092c59220; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000038f1130; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='org.webrtc.WebRTC', executablePath='<DVTFilePath:0x600016a87a80:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/WebRTC.framework/WebRTC'>', hardenedRuntime='0'>'>
+2023-08-30 07:34:36 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x600016a829a0; bundleID='dev.hermesengine.iphoneos', path='<DVTFilePath:0x60000e480150:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/hermes.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600092c6cd20; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000038f1130; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='dev.hermesengine.iphoneos', executablePath='<DVTFilePath:0x600016b483c0:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/hermes.framework/hermes'>', hardenedRuntime='0'>'>
+2023-08-30 07:34:36 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x600016af5380; bundleID='com.apple.dt.runtime.swiftConcurrency', path='<DVTFilePath:0x60000a287000:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/libswift_Concurrency.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600092c5ada0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000038f1130; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='com.apple.dt.runtime.swiftConcurrency', executablePath='<DVTFilePath:0x60000a287000:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/libswift_Concurrency.dylib'>', hardenedRuntime='0'>'>
+2023-08-30 07:34:36 +0000  Running /usr/bin/xattr '-crs' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app'
+2023-08-30 07:34:36 +0000  /usr/bin/xattr exited with 0
+2023-08-30 07:34:36 +0000  Processing step: IDEDistributionCodesignStep
+2023-08-30 07:34:36 +0000  Entitlements for <IDEDistributionItem: 0x600016a806c0; bundleID='live.100ms.HMS.Analytics', path='<DVTFilePath:0x60000a286080:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600092c6ceb0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000388f390; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='live.100ms.HMS.Analytics', executablePath='<DVTFilePath:0x60000e437790:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework/HMSAnalyticsSDK'>', hardenedRuntime='0'>'>: {
+}
+2023-08-30 07:34:36 +0000  Entitlements for <IDEDistributionItem: 0x600016a806c0; bundleID='live.100ms.HMS.Analytics', path='<DVTFilePath:0x60000a286080:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600092c6ceb0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000038f1d90; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='live.100ms.HMS.Analytics', executablePath='<DVTFilePath:0x60000e437790:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework/HMSAnalyticsSDK'>', hardenedRuntime='0'>'> are: {
+}
+2023-08-30 07:34:36 +0000  Writing entitlements for <IDEDistributionItem: 0x600016a806c0; bundleID='live.100ms.HMS.Analytics', path='<DVTFilePath:0x60000a286080:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600092c6ceb0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000038f1760; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='live.100ms.HMS.Analytics', executablePath='<DVTFilePath:0x60000e437790:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework/HMSAnalyticsSDK'>', hardenedRuntime='0'>'> to: /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/entitlements~~~vn8Hfm
+2023-08-30 07:34:36 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '63611E77D24E014297309837456FC26F05C2CCA8' '--entitlements' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/entitlements~~~vn8Hfm' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework'
+2023-08-30 07:34:36 +0000  /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework: replacing existing signature
+2023-08-30 07:34:36 +0000  /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework: signed bundle with Mach-O thin (arm64) [live.100ms.HMS.Analytics]
+2023-08-30 07:34:36 +0000  /usr/bin/codesign exited with 0
+2023-08-30 07:34:36 +0000  Entitlements for <IDEDistributionItem: 0x600016a82040; bundleID='live.100ms.HMS.ScreenShare', path='<DVTFilePath:0x60000a286e80:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600092c59590; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000388f390; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='live.100ms.HMS.ScreenShare', executablePath='<DVTFilePath:0x60000a314b80:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework/HMSBroadcastExtensionSDK'>', hardenedRuntime='0'>'>: {
+}
+2023-08-30 07:34:36 +0000  Entitlements for <IDEDistributionItem: 0x600016a82040; bundleID='live.100ms.HMS.ScreenShare', path='<DVTFilePath:0x60000a286e80:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600092c59590; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000388f180; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='live.100ms.HMS.ScreenShare', executablePath='<DVTFilePath:0x60000a314b80:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework/HMSBroadcastExtensionSDK'>', hardenedRuntime='0'>'> are: {
+}
+2023-08-30 07:34:36 +0000  Writing entitlements for <IDEDistributionItem: 0x600016a82040; bundleID='live.100ms.HMS.ScreenShare', path='<DVTFilePath:0x60000a286e80:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600092c59590; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000388f020; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='live.100ms.HMS.ScreenShare', executablePath='<DVTFilePath:0x60000a314b80:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework/HMSBroadcastExtensionSDK'>', hardenedRuntime='0'>'> to: /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/entitlements~~~8djKqC
+2023-08-30 07:34:36 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '63611E77D24E014297309837456FC26F05C2CCA8' '--entitlements' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/entitlements~~~8djKqC' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework'
+2023-08-30 07:34:37 +0000  /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework: replacing existing signature
+2023-08-30 07:34:37 +0000  /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework: signed bundle with Mach-O thin (arm64) [live.100ms.HMS.ScreenShare]
+2023-08-30 07:34:37 +0000  /usr/bin/codesign exited with 0
+2023-08-30 07:34:37 +0000  Entitlements for <IDEDistributionItem: 0x600016af52c0; bundleID='live.100ms.HMS.HLSPlayer', path='<DVTFilePath:0x60000a286f00:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600092c594f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000388f390; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='live.100ms.HMS.HLSPlayer', executablePath='<DVTFilePath:0x60000e436a70:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework/HMSHLSPlayerSDK'>', hardenedRuntime='0'>'>: {
+}
+2023-08-30 07:34:37 +0000  Entitlements for <IDEDistributionItem: 0x600016af52c0; bundleID='live.100ms.HMS.HLSPlayer', path='<DVTFilePath:0x60000a286f00:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600092c594f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000388f180; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='live.100ms.HMS.HLSPlayer', executablePath='<DVTFilePath:0x60000e436a70:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework/HMSHLSPlayerSDK'>', hardenedRuntime='0'>'> are: {
+}
+2023-08-30 07:34:37 +0000  Writing entitlements for <IDEDistributionItem: 0x600016af52c0; bundleID='live.100ms.HMS.HLSPlayer', path='<DVTFilePath:0x60000a286f00:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600092c594f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000388f020; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='live.100ms.HMS.HLSPlayer', executablePath='<DVTFilePath:0x60000e436a70:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework/HMSHLSPlayerSDK'>', hardenedRuntime='0'>'> to: /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/entitlements~~~yKtZCE
+2023-08-30 07:34:37 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '63611E77D24E014297309837456FC26F05C2CCA8' '--entitlements' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/entitlements~~~yKtZCE' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework'
+2023-08-30 07:34:37 +0000  /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework: replacing existing signature
+2023-08-30 07:34:37 +0000  /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework: signed bundle with Mach-O thin (arm64) [live.100ms.HMS.HLSPlayer]
+2023-08-30 07:34:37 +0000  /usr/bin/codesign exited with 0
+2023-08-30 07:34:37 +0000  Entitlements for <IDEDistributionItem: 0x600016af4c60; bundleID='live.100ms.HMS', path='<DVTFilePath:0x60000e48d6c0:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600092c62300; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000388f390; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='live.100ms.HMS', executablePath='<DVTFilePath:0x600016a850e0:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSSDK.framework/HMSSDK'>', hardenedRuntime='0'>'>: {
+}
+2023-08-30 07:34:37 +0000  Entitlements for <IDEDistributionItem: 0x600016af4c60; bundleID='live.100ms.HMS', path='<DVTFilePath:0x60000e48d6c0:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600092c62300; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000388f180; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='live.100ms.HMS', executablePath='<DVTFilePath:0x600016a850e0:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSSDK.framework/HMSSDK'>', hardenedRuntime='0'>'> are: {
+}
+2023-08-30 07:34:37 +0000  Writing entitlements for <IDEDistributionItem: 0x600016af4c60; bundleID='live.100ms.HMS', path='<DVTFilePath:0x60000e48d6c0:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600092c62300; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000388f020; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='live.100ms.HMS', executablePath='<DVTFilePath:0x600016a850e0:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/HMSSDK.framework/HMSSDK'>', hardenedRuntime='0'>'> to: /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/entitlements~~~McfgMb
+2023-08-30 07:34:37 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '63611E77D24E014297309837456FC26F05C2CCA8' '--entitlements' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/entitlements~~~McfgMb' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSSDK.framework'
+2023-08-30 07:34:37 +0000  /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSSDK.framework: replacing existing signature
+2023-08-30 07:34:37 +0000  /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSSDK.framework: signed bundle with Mach-O thin (arm64) [live.100ms.HMS]
+2023-08-30 07:34:37 +0000  /usr/bin/codesign exited with 0
+2023-08-30 07:34:37 +0000  Entitlements for <IDEDistributionItem: 0x600016af5560; bundleID='org.webrtc.WebRTC', path='<DVTFilePath:0x60000e493b10:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/WebRTC.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600092c59220; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000388f390; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='org.webrtc.WebRTC', executablePath='<DVTFilePath:0x600016a87a80:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/WebRTC.framework/WebRTC'>', hardenedRuntime='0'>'>: {
+}
+2023-08-30 07:34:37 +0000  Entitlements for <IDEDistributionItem: 0x600016af5560; bundleID='org.webrtc.WebRTC', path='<DVTFilePath:0x60000e493b10:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/WebRTC.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600092c59220; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000388f180; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='org.webrtc.WebRTC', executablePath='<DVTFilePath:0x600016a87a80:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/WebRTC.framework/WebRTC'>', hardenedRuntime='0'>'> are: {
+}
+2023-08-30 07:34:37 +0000  Writing entitlements for <IDEDistributionItem: 0x600016af5560; bundleID='org.webrtc.WebRTC', path='<DVTFilePath:0x60000e493b10:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/WebRTC.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600092c59220; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000388f020; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='org.webrtc.WebRTC', executablePath='<DVTFilePath:0x600016a87a80:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/WebRTC.framework/WebRTC'>', hardenedRuntime='0'>'> to: /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/entitlements~~~JzHzAB
+2023-08-30 07:34:37 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '63611E77D24E014297309837456FC26F05C2CCA8' '--entitlements' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/entitlements~~~JzHzAB' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/WebRTC.framework'
+2023-08-30 07:34:37 +0000  /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/WebRTC.framework: replacing existing signature
+2023-08-30 07:34:37 +0000  /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/WebRTC.framework: signed bundle with Mach-O universal (arm64) [org.webrtc.WebRTC]
+2023-08-30 07:34:37 +0000  /usr/bin/codesign exited with 0
+2023-08-30 07:34:37 +0000  Entitlements for <IDEDistributionItem: 0x600016a829a0; bundleID='dev.hermesengine.iphoneos', path='<DVTFilePath:0x60000e480150:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/hermes.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600092c6cd20; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000388f390; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='dev.hermesengine.iphoneos', executablePath='<DVTFilePath:0x600016b483c0:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/hermes.framework/hermes'>', hardenedRuntime='0'>'>: {
+}
+2023-08-30 07:34:37 +0000  Entitlements for <IDEDistributionItem: 0x600016a829a0; bundleID='dev.hermesengine.iphoneos', path='<DVTFilePath:0x60000e480150:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/hermes.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600092c6cd20; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000388f180; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='dev.hermesengine.iphoneos', executablePath='<DVTFilePath:0x600016b483c0:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/hermes.framework/hermes'>', hardenedRuntime='0'>'> are: {
+}
+2023-08-30 07:34:37 +0000  Writing entitlements for <IDEDistributionItem: 0x600016a829a0; bundleID='dev.hermesengine.iphoneos', path='<DVTFilePath:0x60000e480150:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/hermes.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600092c6cd20; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000388f020; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='dev.hermesengine.iphoneos', executablePath='<DVTFilePath:0x600016b483c0:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/hermes.framework/hermes'>', hardenedRuntime='0'>'> to: /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/entitlements~~~4eOo8m
+2023-08-30 07:34:37 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '63611E77D24E014297309837456FC26F05C2CCA8' '--entitlements' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/entitlements~~~4eOo8m' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/hermes.framework'
+2023-08-30 07:34:37 +0000  /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/hermes.framework: replacing existing signature
+2023-08-30 07:34:37 +0000  /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/hermes.framework: signed bundle with Mach-O thin (arm64) [dev.hermesengine.iphoneos]
+2023-08-30 07:34:37 +0000  /usr/bin/codesign exited with 0
+2023-08-30 07:34:37 +0000  Entitlements for <IDEDistributionItem: 0x600016af5380; bundleID='com.apple.dt.runtime.swiftConcurrency', path='<DVTFilePath:0x60000a287000:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/libswift_Concurrency.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600092c5ada0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000388f390; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='com.apple.dt.runtime.swiftConcurrency', executablePath='<DVTFilePath:0x60000a287000:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/libswift_Concurrency.dylib'>', hardenedRuntime='0'>'>: {
+}
+2023-08-30 07:34:37 +0000  Entitlements for <IDEDistributionItem: 0x600016af5380; bundleID='com.apple.dt.runtime.swiftConcurrency', path='<DVTFilePath:0x60000a287000:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/libswift_Concurrency.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600092c5ada0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000388f180; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='com.apple.dt.runtime.swiftConcurrency', executablePath='<DVTFilePath:0x60000a287000:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/libswift_Concurrency.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2023-08-30 07:34:37 +0000  Writing entitlements for <IDEDistributionItem: 0x600016af5380; bundleID='com.apple.dt.runtime.swiftConcurrency', path='<DVTFilePath:0x60000a287000:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/libswift_Concurrency.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600092c5ada0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000388f020; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='(null)', teamID='5N85PP82A9', identifier='com.apple.dt.runtime.swiftConcurrency', executablePath='<DVTFilePath:0x60000a287000:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/Frameworks/libswift_Concurrency.dylib'>', hardenedRuntime='0'>'> to: /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/entitlements~~~wTH3HF
+2023-08-30 07:34:37 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '63611E77D24E014297309837456FC26F05C2CCA8' '--entitlements' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/entitlements~~~wTH3HF' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/libswift_Concurrency.dylib'
+2023-08-30 07:34:37 +0000  /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/libswift_Concurrency.dylib: replacing existing signature
+2023-08-30 07:34:37 +0000  /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/libswift_Concurrency.dylib: signed Mach-O thin (arm64) [com.apple.dt.runtime.swiftConcurrency]
+2023-08-30 07:34:37 +0000  /usr/bin/codesign exited with 0
+2023-08-30 07:34:37 +0000  Entitlements for <IDEDistributionItem: 0x600016af6100; bundleID='org.name.HMSPrebuiltSample', path='<DVTFilePath:0x60000e41c150:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600092c60aa0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000038f1d90; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='{
+    "application-identifier" = "5N85PP82A9.org.name.HMSPrebuiltSample";
+    "com.apple.developer.team-identifier" = 5N85PP82A9;
+    "get-task-allow" = 1;
+}', teamID='5N85PP82A9', identifier='org.name.HMSPrebuiltSample', executablePath='<DVTFilePath:0x60000e45ad80:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/HMSPrebuiltSample'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "5N85PP82A9.org.name.HMSPrebuiltSample";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = 5N85PP82A9;
+    "get-task-allow" = 0;
+}
+2023-08-30 07:34:37 +0000  Entitlements for <IDEDistributionItem: 0x600016af6100; bundleID='org.name.HMSPrebuiltSample', path='<DVTFilePath:0x60000e41c150:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600092c60aa0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000388f390; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='{
+    "application-identifier" = "5N85PP82A9.org.name.HMSPrebuiltSample";
+    "com.apple.developer.team-identifier" = 5N85PP82A9;
+    "get-task-allow" = 1;
+}', teamID='5N85PP82A9', identifier='org.name.HMSPrebuiltSample', executablePath='<DVTFilePath:0x60000e45ad80:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/HMSPrebuiltSample'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "5N85PP82A9.org.name.HMSPrebuiltSample";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = 5N85PP82A9;
+    "get-task-allow" = 0;
+}
+2023-08-30 07:34:37 +0000  Writing entitlements for <IDEDistributionItem: 0x600016af6100; bundleID='org.name.HMSPrebuiltSample', path='<DVTFilePath:0x60000e41c150:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600092c60aa0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000388f180; name='Apple Development: Yogesh Singh (67BD6X9RQ5)', hash='DED2563FCA7DF4E5E181FEE9F0DC4CFC9AA82B3C', serialNumber='7FFE2F9F58D1314DCC36E9BE02CD1803', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-07 07:53:53 +0000''>', entitlements='{
+    "application-identifier" = "5N85PP82A9.org.name.HMSPrebuiltSample";
+    "com.apple.developer.team-identifier" = 5N85PP82A9;
+    "get-task-allow" = 1;
+}', teamID='5N85PP82A9', identifier='org.name.HMSPrebuiltSample', executablePath='<DVTFilePath:0x60000e45ad80:'/Users/yogesh/Library/Developer/Xcode/Archives/2023-08-30/HMSPrebuiltSample 30-08-23, 1.04 PM.xcarchive/Products/Applications/HMSPrebuiltSample.app/HMSPrebuiltSample'>', hardenedRuntime='0'>'> to: /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/entitlements~~~boqDOc
+2023-08-30 07:34:37 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '63611E77D24E014297309837456FC26F05C2CCA8' '--entitlements' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/entitlements~~~boqDOc' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app'
+2023-08-30 07:34:37 +0000  /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app: replacing existing signature
+2023-08-30 07:34:37 +0000  /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app: signed app bundle with Mach-O thin (arm64) [org.name.HMSPrebuiltSample]
+2023-08-30 07:34:37 +0000  /usr/bin/codesign exited with 0
+2023-08-30 07:34:37 +0000  Processing step: IDEDistributionZipODRItemStep
+2023-08-30 07:34:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-08-30 07:34:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-08-30 07:34:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-08-30 07:34:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-08-30 07:34:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-08-30 07:34:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-08-30 07:34:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-08-30 07:34:37 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-08-30 07:34:37 +0000  Processing step: IDEDistributionCreateIPAStep
+2023-08-30 07:34:37 +0000  Running /usr/bin/rsync '-8aPhhE' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Symbols' '--link-dest' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root'
+2023-08-30 07:34:37 +0000  building file list ... 
+2023-08-30 07:34:37 +0000   0 files...2023-08-30 07:34:37 +0000  8 files to consider
+2023-08-30 07:34:37 +0000  Symbols/
+2023-08-30 07:34:37 +0000  
+2023-08-30 07:34:37 +0000  sent 455 bytes  received 26 bytes  962.00 bytes/sec
+total size is 17.26M  speedup is 37621.78
+2023-08-30 07:34:37 +0000  /usr/bin/rsync exited with 0
+2023-08-30 07:34:37 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root' '/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Packages/HMSPrebuiltSample.ipa'
+2023-08-30 07:34:37 +0000  >>> Copying /var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root 
+2023-08-30 07:34:37 +0000  copying file ./Payload/HMSPrebuiltSample.app/_CodeSignature/CodeResources ... 
+2023-08-30 07:34:37 +0000  57511 bytes for ./Payload/HMSPrebuiltSample.app/_CodeSignature/CodeResources
+2023-08-30 07:34:37 +0000  copying file ./Payload/HMSPrebuiltSample.app/Fontisto.ttf ... 
+2023-08-30 07:34:37 +0000  313528 bytes for ./Payload/HMSPrebuiltSample.app/Fontisto.ttf
+2023-08-30 07:34:37 +0000  copying file ./Payload/HMSPrebuiltSample.app/Octicons.ttf ... 
+2023-08-30 07:34:37 +0000  49404 bytes for ./Payload/HMSPrebuiltSample.app/Octicons.ttf
+2023-08-30 07:34:37 +0000  copying file ./Payload/HMSPrebuiltSample.app/Feather.ttf ... 
+2023-08-30 07:34:37 +0000  56228 bytes for ./Payload/HMSPrebuiltSample.app/Feather.ttf
+2023-08-30 07:34:37 +0000  copying file ./Payload/HMSPrebuiltSample.app/SplashScreen.storyboardc/EXPO-VIEWCONTROLLER-1-view-EXPO-ContainerView.nib ... 
+2023-08-30 07:34:37 +0000  2242 bytes for ./Payload/HMSPrebuiltSample.app/SplashScreen.storyboardc/EXPO-VIEWCONTROLLER-1-view-EXPO-ContainerView.nib
+2023-08-30 07:34:37 +0000  copying file ./Payload/HMSPrebuiltSample.app/SplashScreen.storyboardc/SplashScreenViewController.nib ... 
+2023-08-30 07:34:37 +0000  976 bytes for ./Payload/HMSPrebuiltSample.app/SplashScreen.storyboardc/SplashScreenViewController.nib
+2023-08-30 07:34:37 +0000  copying file ./Payload/HMSPrebuiltSample.app/SplashScreen.storyboardc/Info.plist ... 
+2023-08-30 07:34:37 +0000  225 bytes for ./Payload/HMSPrebuiltSample.app/SplashScreen.storyboardc/Info.plist
+copying file ./Payload/HMSPrebuiltSample.app/HMSPrebuiltSample ... 
+2023-08-30 07:34:37 +0000  4736640 bytes for ./Payload/HMSPrebuiltSample.app/HMSPrebuiltSample
+copying file ./Payload/HMSPrebuiltSample.app/Entypo.ttf ... 
+2023-08-30 07:34:37 +0000  66200 bytes for ./Payload/HMSPrebuiltSample.app/Entypo.ttf
+copying file ./Payload/HMSPrebuiltSample.app/FontAwesome5_Brands.ttf ... 
+2023-08-30 07:34:37 +0000  134040 bytes for ./Payload/HMSPrebuiltSample.app/FontAwesome5_Brands.ttf
+2023-08-30 07:34:37 +0000  copying file ./Payload/HMSPrebuiltSample.app/MaterialCommunityIcons.ttf ... 
+2023-08-30 07:34:37 +0000  1147844 bytes for ./Payload/HMSPrebuiltSample.app/MaterialCommunityIcons.ttf
+copying file ./Payload/HMSPrebuiltSample.app/AntDesign.ttf ... 
+2023-08-30 07:34:37 +0000  70344 bytes for ./Payload/HMSPrebuiltSample.app/AntDesign.ttf
+copying file ./Payload/HMSPrebuiltSample.app/Foundation.ttf ... 
+2023-08-30 07:34:37 +0000  56976 bytes for ./Payload/HMSPrebuiltSample.app/Foundation.ttf
+copying file ./Payload/HMSPrebuiltSample.app/Ionicons.ttf ... 
+2023-08-30 07:34:37 +0000  247192 bytes for ./Payload/HMSPrebuiltSample.app/Ionicons.ttf
+copying file ./Payload/HMSPrebuiltSample.app/FontAwesome5_Solid.ttf ... 
+2023-08-30 07:34:37 +0000  202744 bytes for ./Payload/HMSPrebuiltSample.app/FontAwesome5_Solid.ttf
+copying file ./Payload/HMSPrebuiltSample.app/FontAwesome5_Regular.ttf ... 
+2023-08-30 07:34:37 +0000  33736 bytes for ./Payload/HMSPrebuiltSample.app/FontAwesome5_Regular.ttf
+2023-08-30 07:34:37 +0000  copying file ./Payload/HMSPrebuiltSample.app/AccessibilityResources.bundle/en.lproj/Localizable.strings ... 
+2023-08-30 07:34:37 +0000  518 bytes for ./Payload/HMSPrebuiltSample.app/AccessibilityResources.bundle/en.lproj/Localizable.strings
+2023-08-30 07:34:37 +0000  copying file ./Payload/HMSPrebuiltSample.app/AccessibilityResources.bundle/Info.plist ... 
+2023-08-30 07:34:37 +0000  793 bytes for ./Payload/HMSPrebuiltSample.app/AccessibilityResources.bundle/Info.plist
+2023-08-30 07:34:37 +0000  copying file ./Payload/HMSPrebuiltSample.app/FontAwesome.ttf ... 
+2023-08-30 07:34:37 +0000  165548 bytes for ./Payload/HMSPrebuiltSample.app/FontAwesome.ttf
+copying file ./Payload/HMSPrebuiltSample.app/Zocial.ttf ... 
+2023-08-30 07:34:37 +0000  25788 bytes for ./Payload/HMSPrebuiltSample.app/Zocial.ttf
+copying file ./Payload/HMSPrebuiltSample.app/Assets.car ... 
+2023-08-30 07:34:37 +0000  35855 bytes for ./Payload/HMSPrebuiltSample.app/Assets.car
+2023-08-30 07:34:37 +0000  copying file ./Payload/HMSPrebuiltSample.app/EvilIcons.ttf ... 
+2023-08-30 07:34:37 +0000  13456 bytes for ./Payload/HMSPrebuiltSample.app/EvilIcons.ttf
+2023-08-30 07:34:37 +0000  copying file ./Payload/HMSPrebuiltSample.app/main.jsbundle ... 
+2023-08-30 07:34:37 +0000  3543667 bytes for ./Payload/HMSPrebuiltSample.app/main.jsbundle
+2023-08-30 07:34:37 +0000  copying file ./Payload/HMSPrebuiltSample.app/EXConstants.bundle/app.config ... 
+156 bytes for ./Payload/HMSPrebuiltSample.app/EXConstants.bundle/app.config
+copying file ./Payload/HMSPrebuiltSample.app/EXConstants.bundle/Info.plist ... 
+769 bytes for ./Payload/HMSPrebuiltSample.app/EXConstants.bundle/Info.plist
+copying file ./Payload/HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework/_CodeSignature/CodeResources ... 
+1798 bytes for ./Payload/HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework/_CodeSignature/CodeResources
+copying file ./Payload/HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework/HMSHLSPlayerSDK ... 
+2023-08-30 07:34:37 +0000  169824 bytes for ./Payload/HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework/HMSHLSPlayerSDK
+copying file ./Payload/HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework/Info.plist ... 
+2023-08-30 07:34:37 +0000  889 bytes for ./Payload/HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework/Info.plist
+2023-08-30 07:34:37 +0000  copying file ./Payload/HMSPrebuiltSample.app/Frameworks/libswift_Concurrency.dylib ... 
+2023-08-30 07:34:37 +0000  557968 bytes for ./Payload/HMSPrebuiltSample.app/Frameworks/libswift_Concurrency.dylib
+2023-08-30 07:34:37 +0000  copying file ./Payload/HMSPrebuiltSample.app/Frameworks/HMSSDK.framework/_CodeSignature/CodeResources ... 
+2023-08-30 07:34:37 +0000  1798 bytes for ./Payload/HMSPrebuiltSample.app/Frameworks/HMSSDK.framework/_CodeSignature/CodeResources
+2023-08-30 07:34:37 +0000  copying file ./Payload/HMSPrebuiltSample.app/Frameworks/HMSSDK.framework/Info.plist ... 
+2023-08-30 07:34:37 +0000  741 bytes for ./Payload/HMSPrebuiltSample.app/Frameworks/HMSSDK.framework/Info.plist
+copying file ./Payload/HMSPrebuiltSample.app/Frameworks/HMSSDK.framework/HMSSDK ... 
+2023-08-30 07:34:37 +0000  2834400 bytes for ./Payload/HMSPrebuiltSample.app/Frameworks/HMSSDK.framework/HMSSDK
+2023-08-30 07:34:37 +0000  copying file ./Payload/HMSPrebuiltSample.app/Frameworks/WebRTC.framework/_CodeSignature/CodeResources ... 
+1871 bytes for ./Payload/HMSPrebuiltSample.app/Frameworks/WebRTC.framework/_CodeSignature/CodeResources
+copying file ./Payload/HMSPrebuiltSample.app/Frameworks/WebRTC.framework/.DS_Store ... 
+6148 bytes for ./Payload/HMSPrebuiltSample.app/Frameworks/WebRTC.framework/.DS_Store
+copying file ./Payload/HMSPrebuiltSample.app/Frameworks/WebRTC.framework/WebRTC ... 
+2023-08-30 07:34:38 +0000  7364192 bytes for ./Payload/HMSPrebuiltSample.app/Frameworks/WebRTC.framework/WebRTC
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/Frameworks/WebRTC.framework/Info.plist ... 
+758 bytes for ./Payload/HMSPrebuiltSample.app/Frameworks/WebRTC.framework/Info.plist
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework/_CodeSignature/CodeResources ... 
+2023-08-30 07:34:38 +0000  1798 bytes for ./Payload/HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework/_CodeSignature/CodeResources
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework/HMSBroadcastExtensionSDK ... 
+2023-08-30 07:34:38 +0000  182736 bytes for ./Payload/HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework/HMSBroadcastExtensionSDK
+copying file ./Payload/HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework/Info.plist ... 
+2023-08-30 07:34:38 +0000  776 bytes for ./Payload/HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework/Info.plist
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework/_CodeSignature/CodeResources ... 
+2023-08-30 07:34:38 +0000  1798 bytes for ./Payload/HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework/_CodeSignature/CodeResources
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework/HMSAnalyticsSDK ... 
+2023-08-30 07:34:38 +0000  106256 bytes for ./Payload/HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework/HMSAnalyticsSDK
+copying file ./Payload/HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework/Info.plist ... 
+2023-08-30 07:34:38 +0000  889 bytes for ./Payload/HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework/Info.plist
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/Frameworks/hermes.framework/_CodeSignature/CodeResources ... 
+2023-08-30 07:34:38 +0000  1798 bytes for ./Payload/HMSPrebuiltSample.app/Frameworks/hermes.framework/_CodeSignature/CodeResources
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/Frameworks/hermes.framework/hermes ... 
+2023-08-30 07:34:38 +0000  3240672 bytes for ./Payload/HMSPrebuiltSample.app/Frameworks/hermes.framework/hermes
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/Frameworks/hermes.framework/Info.plist ... 
+807 bytes for ./Payload/HMSPrebuiltSample.app/Frameworks/hermes.framework/Info.plist
+copying file ./Payload/HMSPrebuiltSample.app/SimpleLineIcons.ttf ... 
+2023-08-30 07:34:38 +0000  54056 bytes for ./Payload/HMSPrebuiltSample.app/SimpleLineIcons.ttf
+copying file ./Payload/HMSPrebuiltSample.app/embedded.mobileprovision ... 
+2023-08-30 07:34:38 +0000  14480 bytes for ./Payload/HMSPrebuiltSample.app/embedded.mobileprovision
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@expo/vector-icons/build/vendor/react-native-vector-icons/Fonts/Feather.ttf ... 
+2023-08-30 07:34:38 +0000  56228 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@expo/vector-icons/build/vendor/react-native-vector-icons/Fonts/Feather.ttf
+copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@expo/vector-icons/build/vendor/react-native-vector-icons/Fonts/Entypo.ttf ... 
+2023-08-30 07:34:38 +0000  66200 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@expo/vector-icons/build/vendor/react-native-vector-icons/Fonts/Entypo.ttf
+copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@expo/vector-icons/build/vendor/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf ... 
+2023-08-30 07:34:38 +0000  1147844 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@expo/vector-icons/build/vendor/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf
+copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@expo/vector-icons/build/vendor/react-native-vector-icons/Fonts/Ionicons.ttf ... 
+2023-08-30 07:34:38 +0000  247192 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@expo/vector-icons/build/vendor/react-native-vector-icons/Fonts/Ionicons.ttf
+copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@expo/vector-icons/build/vendor/react-native-vector-icons/Fonts/MaterialIcons.ttf ... 
+2023-08-30 07:34:38 +0000  230384 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@expo/vector-icons/build/vendor/react-native-vector-icons/Fonts/MaterialIcons.ttf
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Settings/assets/settings.png ... 
+2023-08-30 07:34:38 +0000  389 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Settings/assets/settings.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Settings/assets/settings@2x.png ... 
+2023-08-30 07:34:38 +0000  627 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Settings/assets/settings@2x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Settings/assets/settings@3x.png ... 
+2023-08-30 07:34:38 +0000  799 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Settings/assets/settings@3x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Hand/assets/hand@2x.png ... 
+2023-08-30 07:34:38 +0000  547 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Hand/assets/hand@2x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Hand/assets/hand@3x.png ... 
+2023-08-30 07:34:38 +0000  677 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Hand/assets/hand@3x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Hand/assets/hand.png ... 
+2023-08-30 07:34:38 +0000  374 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Hand/assets/hand.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Participants/assets/participants@2x.png ... 
+2023-08-30 07:34:38 +0000  618 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Participants/assets/participants@2x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Participants/assets/participants@3x.png ... 
+2023-08-30 07:34:38 +0000  792 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Participants/assets/participants@3x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Participants/assets/participants.png ... 
+2023-08-30 07:34:38 +0000  422 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Participants/assets/participants.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Chevron/assets/chevron-down.png ... 
+2023-08-30 07:34:38 +0000  193 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Chevron/assets/chevron-down.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Chevron/assets/chevron-left.png ... 
+2023-08-30 07:34:38 +0000  175 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Chevron/assets/chevron-left.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Chevron/assets/chevron-left@2x.png ... 
+2023-08-30 07:34:38 +0000  214 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Chevron/assets/chevron-left@2x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Chevron/assets/chevron-down@2x.png ... 
+2023-08-30 07:34:38 +0000  237 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Chevron/assets/chevron-down@2x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Chevron/assets/chevron-down@3x.png ... 
+2023-08-30 07:34:38 +0000  294 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Chevron/assets/chevron-down@3x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Chevron/assets/chevron-left@3x.png ... 
+2023-08-30 07:34:38 +0000  261 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Chevron/assets/chevron-left@3x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Radio/assets/radio.png ... 
+2023-08-30 07:34:38 +0000  358 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Radio/assets/radio.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Radio/assets/radio@2x.png ... 
+2023-08-30 07:34:38 +0000  531 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Radio/assets/radio@2x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Radio/assets/radio@3x.png ... 
+2023-08-30 07:34:38 +0000  716 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Radio/assets/radio@3x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Close/assets/close@3x.png ... 
+2023-08-30 07:34:38 +0000  356 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Close/assets/close@3x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Close/assets/close@2x.png ... 
+2023-08-30 07:34:38 +0000  280 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Close/assets/close@2x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Close/assets/close.png ... 
+2023-08-30 07:34:38 +0000  208 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Close/assets/close.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/ScreenShare/assets/screen-share.png ... 
+2023-08-30 07:34:38 +0000  324 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/ScreenShare/assets/screen-share.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/ScreenShare/assets/screen-share@2x.png ... 
+2023-08-30 07:34:38 +0000  438 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/ScreenShare/assets/screen-share@2x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/ScreenShare/assets/screen-share@3x.png ... 
+2023-08-30 07:34:38 +0000  530 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/ScreenShare/assets/screen-share@3x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Chat/assets/chat@2x.png ... 
+2023-08-30 07:34:38 +0000  298 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Chat/assets/chat@2x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Chat/assets/chat@3x.png ... 
+2023-08-30 07:34:38 +0000  377 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Chat/assets/chat@3x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Chat/assets/chat.png ... 
+2023-08-30 07:34:38 +0000  252 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Chat/assets/chat.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Speaker/assets/speaker@3x.png ... 
+2023-08-30 07:34:38 +0000  611 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Speaker/assets/speaker@3x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Speaker/assets/speaker@2x.png ... 
+2023-08-30 07:34:38 +0000  499 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Speaker/assets/speaker@2x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Speaker/assets/speaker-large.png ... 
+2023-08-30 07:34:38 +0000  390 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Speaker/assets/speaker-large.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Speaker/assets/speaker-muted.png ... 
+2023-08-30 07:34:38 +0000  310 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Speaker/assets/speaker-muted.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Speaker/assets/speaker-large@2x.png ... 
+2023-08-30 07:34:38 +0000  575 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Speaker/assets/speaker-large@2x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Speaker/assets/speaker-large@3x.png ... 
+2023-08-30 07:34:38 +0000  747 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Speaker/assets/speaker-large@3x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Speaker/assets/speaker-muted@3x.png ... 
+2023-08-30 07:34:38 +0000  509 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Speaker/assets/speaker-muted@3x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Speaker/assets/speaker.png ... 
+2023-08-30 07:34:38 +0000  335 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Speaker/assets/speaker.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Speaker/assets/speaker-muted@2x.png ... 
+2023-08-30 07:34:38 +0000  425 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Speaker/assets/speaker-muted@2x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Person/assets/person.png ... 
+2023-08-30 07:34:38 +0000  386 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Person/assets/person.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Person/assets/person@3x.png ... 
+2023-08-30 07:34:38 +0000  703 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Person/assets/person@3x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Person/assets/person@2x.png ... 
+2023-08-30 07:34:38 +0000  544 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Person/assets/person@2x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Alert/assets/alert@3x.png ... 
+2023-08-30 07:34:38 +0000  533 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Alert/assets/alert@3x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Alert/assets/alert.png ... 
+2023-08-30 07:34:38 +0000  321 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Alert/assets/alert.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Alert/assets/alert@2x.png ... 
+2023-08-30 07:34:38 +0000  397 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Alert/assets/alert@2x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Camera/assets/camera-muted@3x.png ... 
+2023-08-30 07:34:38 +0000  574 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Camera/assets/camera-muted@3x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Camera/assets/camera-muted@2x.png ... 
+2023-08-30 07:34:38 +0000  461 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Camera/assets/camera-muted@2x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Camera/assets/camera-muted.png ... 
+2023-08-30 07:34:38 +0000  335 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Camera/assets/camera-muted.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Camera/assets/camera-unmuted@3x.png ... 
+2023-08-30 07:34:38 +0000  476 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Camera/assets/camera-unmuted@3x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Camera/assets/camera-unmuted@2x.png ... 
+2023-08-30 07:34:38 +0000  390 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Camera/assets/camera-unmuted@2x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Camera/assets/camera-unmuted.png ... 
+2023-08-30 07:34:38 +0000  319 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Camera/assets/camera-unmuted.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Mic/assets/mic-unmuted.png ... 
+2023-08-30 07:34:38 +0000  351 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Mic/assets/mic-unmuted.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Mic/assets/mic-muted@2x.png ... 
+2023-08-30 07:34:38 +0000  565 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Mic/assets/mic-muted@2x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Mic/assets/mic-unmuted@3x.png ... 
+2023-08-30 07:34:38 +0000  612 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Mic/assets/mic-unmuted@3x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Mic/assets/mic-unmuted@2x.png ... 
+2023-08-30 07:34:38 +0000  462 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Mic/assets/mic-unmuted@2x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Mic/assets/mic-muted@3x.png ... 
+2023-08-30 07:34:38 +0000  735 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Mic/assets/mic-muted@3x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Mic/assets/mic-muted.png ... 
+2023-08-30 07:34:38 +0000  389 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Mic/assets/mic-muted.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Headphones/assets/headphones.png ... 
+2023-08-30 07:34:38 +0000  317 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Headphones/assets/headphones.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Headphones/assets/headphones@3x.png ... 
+2023-08-30 07:34:38 +0000  594 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Headphones/assets/headphones@3x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Headphones/assets/headphones@2x.png ... 
+2023-08-30 07:34:38 +0000  460 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Headphones/assets/headphones@2x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/GenericLogo/assets/generic-logo@2x.png ... 
+2023-08-30 07:34:38 +0000  838 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/GenericLogo/assets/generic-logo@2x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/GenericLogo/assets/generic-logo@3x.png ... 
+2023-08-30 07:34:38 +0000  1120 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/GenericLogo/assets/generic-logo@3x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/GenericLogo/assets/generic-logo.png ... 
+2023-08-30 07:34:38 +0000  555 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/GenericLogo/assets/generic-logo.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/RotateCamera/assets/rotate-camera.png ... 
+2023-08-30 07:34:38 +0000  347 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/RotateCamera/assets/rotate-camera.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/RotateCamera/assets/rotate-camera@2x.png ... 
+2023-08-30 07:34:38 +0000  509 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/RotateCamera/assets/rotate-camera@2x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/RotateCamera/assets/rotate-camera@3x.png ... 
+2023-08-30 07:34:38 +0000  655 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/RotateCamera/assets/rotate-camera@3x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/End/assets/end.png ... 
+2023-08-30 07:34:38 +0000  294 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/End/assets/end.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/End/assets/end@2x.png ... 
+2023-08-30 07:34:38 +0000  411 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/End/assets/end@2x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/End/assets/end@3x.png ... 
+2023-08-30 07:34:38 +0000  506 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/End/assets/end@3x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_1@3x.png ... 
+2023-08-30 07:34:38 +0000  651 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_1@3x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_3@2x.png ... 
+2023-08-30 07:34:38 +0000  562 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_3@2x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_3@3x.png ... 
+2023-08-30 07:34:38 +0000  709 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_3@3x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_1@2x.png ... 
+2023-08-30 07:34:38 +0000  513 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_1@2x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_5@2x.png ... 
+2023-08-30 07:34:38 +0000  494 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_5@2x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_5@3x.png ... 
+2023-08-30 07:34:38 +0000  645 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_5@3x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_3.png ... 
+2023-08-30 07:34:38 +0000  383 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_3.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_2.png ... 
+2023-08-30 07:34:38 +0000  382 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_2.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_0.png ... 
+2023-08-30 07:34:38 +0000  482 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_0.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_2@2x.png ... 
+2023-08-30 07:34:38 +0000  570 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_2@2x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_1.png ... 
+2023-08-30 07:34:38 +0000  345 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_1.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_0@3x.png ... 
+2023-08-30 07:34:38 +0000  1041 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_0@3x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_0@2x.png ... 
+2023-08-30 07:34:38 +0000  785 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_0@2x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_5.png ... 
+2023-08-30 07:34:38 +0000  354 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_5.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_2@3x.png ... 
+2023-08-30 07:34:38 +0000  729 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_2@3x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_4.png ... 
+2023-08-30 07:34:38 +0000  354 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_4.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_4@2x.png ... 
+2023-08-30 07:34:38 +0000  494 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_4@2x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_4@3x.png ... 
+2023-08-30 07:34:38 +0000  646 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/NetworkQuality/assets/network_4@3x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Bluetooth/assets/bluetooth-on.png ... 
+2023-08-30 07:34:38 +0000  311 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Bluetooth/assets/bluetooth-on.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Bluetooth/assets/bluetooth-on@2x.png ... 
+2023-08-30 07:34:38 +0000  451 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Bluetooth/assets/bluetooth-on@2x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Bluetooth/assets/bluetooth-on@3x.png ... 
+2023-08-30 07:34:38 +0000  564 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Bluetooth/assets/bluetooth-on@3x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/100ms/assets/hms-logo@3x.png ... 
+2023-08-30 07:34:38 +0000  12183 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/100ms/assets/hms-logo@3x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/100ms/assets/hms-logo@2x.png ... 
+2023-08-30 07:34:38 +0000  7015 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/100ms/assets/hms-logo@2x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/100ms/assets/hms-logo.png ... 
+2023-08-30 07:34:38 +0000  2986 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/100ms/assets/hms-logo.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/AnswerPhone/assets/answer-phone.png ... 
+2023-08-30 07:34:38 +0000  350 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/AnswerPhone/assets/answer-phone.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/AnswerPhone/assets/answer-phone@2x.png ... 
+2023-08-30 07:34:38 +0000  522 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/AnswerPhone/assets/answer-phone@2x.png
+copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/AnswerPhone/assets/answer-phone@3x.png ... 
+2023-08-30 07:34:38 +0000  693 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/AnswerPhone/assets/answer-phone@3x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/ThreeDots/assets/three-dots-vertical@2x.png ... 
+2023-08-30 07:34:38 +0000  257 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/ThreeDots/assets/three-dots-vertical@2x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/ThreeDots/assets/three-dots-vertical@3x.png ... 
+2023-08-30 07:34:38 +0000  337 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/ThreeDots/assets/three-dots-vertical@3x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/ThreeDots/assets/three-dots-vertical.png ... 
+2023-08-30 07:34:38 +0000  196 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/ThreeDots/assets/three-dots-vertical.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Wave/assets/wave@3x.png ... 
+2023-08-30 07:34:38 +0000  372 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Wave/assets/wave@3x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Wave/assets/wave@2x.png ... 
+2023-08-30 07:34:38 +0000  334 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Wave/assets/wave@2x.png
+copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Wave/assets/wave.png ... 
+2023-08-30 07:34:38 +0000  247 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Wave/assets/wave.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Send/assets/send@2x.png ... 
+2023-08-30 07:34:38 +0000  462 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Send/assets/send@2x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Send/assets/send@3x.png ... 
+2023-08-30 07:34:38 +0000  570 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Send/assets/send@3x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Send/assets/send.png ... 
+2023-08-30 07:34:38 +0000  346 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Send/assets/send.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Check/assets/check.png ... 
+2023-08-30 07:34:38 +0000  226 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Check/assets/check.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Check/assets/check@2x.png ... 
+2023-08-30 07:34:38 +0000  276 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Check/assets/check@2x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Check/assets/check@3x.png ... 
+2023-08-30 07:34:38 +0000  317 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Check/assets/check@3x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Leave/assets/leave@3x.png ... 
+2023-08-30 07:34:38 +0000  435 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Leave/assets/leave@3x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Leave/assets/leave@2x.png ... 
+2023-08-30 07:34:38 +0000  351 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Leave/assets/leave@2x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Leave/assets/leave.png ... 
+2023-08-30 07:34:38 +0000  285 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Leave/assets/leave.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Clock/assets/clock@3x.png ... 
+2023-08-30 07:34:38 +0000  21659 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Clock/assets/clock@3x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Clock/assets/clock@2x.png ... 
+2023-08-30 07:34:38 +0000  11312 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Clock/assets/clock@2x.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Clock/assets/clock.png ... 
+2023-08-30 07:34:38 +0000  4031 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/Icons/Clock/assets/clock.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/assets/brb.png ... 
+2023-08-30 07:34:38 +0000  468 bytes for ./Payload/HMSPrebuiltSample.app/assets/node_modules/@100mslive/react-native-room-kit/src/assets/brb.png
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/Info.plist ... 
+2023-08-30 07:34:38 +0000  2031 bytes for ./Payload/HMSPrebuiltSample.app/Info.plist
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/Expo.plist ... 
+2023-08-30 07:34:38 +0000  133 bytes for ./Payload/HMSPrebuiltSample.app/Expo.plist
+2023-08-30 07:34:38 +0000  copying file ./Payload/HMSPrebuiltSample.app/PkgInfo ... 
+2023-08-30 07:34:38 +0000  8 bytes for ./Payload/HMSPrebuiltSample.app/PkgInfo
+copying file ./Payload/HMSPrebuiltSample.app/MaterialIcons.ttf ... 
+2023-08-30 07:34:38 +0000  230384 bytes for ./Payload/HMSPrebuiltSample.app/MaterialIcons.ttf
+2023-08-30 07:34:38 +0000  copying file ./SwiftSupport/iphoneos/libswift_Concurrency.dylib ... 
+2023-08-30 07:34:38 +0000  7741808 bytes for ./SwiftSupport/iphoneos/libswift_Concurrency.dylib
+2023-08-30 07:34:38 +0000  copying file ./Symbols/249B2B8E-BF47-3411-A979-71AF14681D5D.symbols ... 
+2023-08-30 07:34:38 +0000  288420 bytes for ./Symbols/249B2B8E-BF47-3411-A979-71AF14681D5D.symbols
+copying file ./Symbols/E8AB713D-D0B5-3217-B83C-CA01DD22D1D7.symbols ... 
+2023-08-30 07:34:38 +0000  15524516 bytes for ./Symbols/E8AB713D-D0B5-3217-B83C-CA01DD22D1D7.symbols
+copying file ./Symbols/46E9B8AA-84D6-3DAF-BA54-9B4D401E478E.symbols ... 
+2023-08-30 07:34:38 +0000  22604 bytes for ./Symbols/46E9B8AA-84D6-3DAF-BA54-9B4D401E478E.symbols
+2023-08-30 07:34:38 +0000  copying file ./Symbols/759E5DD0-5C72-3B8F-A8D3-A68DF948B34D.symbols ... 
+2023-08-30 07:34:38 +0000  787332 bytes for ./Symbols/759E5DD0-5C72-3B8F-A8D3-A68DF948B34D.symbols
+copying file ./Symbols/1ACF90BF-F56F-35BA-87BE-890C8674BC35.symbols ... 
+2023-08-30 07:34:38 +0000  49484 bytes for ./Symbols/1ACF90BF-F56F-35BA-87BE-890C8674BC35.symbols
+copying file ./Symbols/6E1281F4-5F7E-39B8-9452-140AB18FF7CC.symbols ... 
+2023-08-30 07:34:38 +0000  34428 bytes for ./Symbols/6E1281F4-5F7E-39B8-9452-140AB18FF7CC.symbols
+copying file ./Symbols/4C4C44AA-5555-3144-A1B9-66270F9D0079.symbols ... 
+2023-08-30 07:34:38 +0000  1389292 bytes for ./Symbols/4C4C44AA-5555-3144-A1B9-66270F9D0079.symbols
+2023-08-30 07:34:38 +0000  /usr/bin/ditto exited with 0
+2023-08-30 07:34:38 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2023-08-30 07:34:38 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2023-08-30 07:34:38 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2023-08-30 07:34:39 +0000  IDEDistributionItem init <DVTFilePath:0x60000a1a8800:'/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSHLSPlayerSDK.framework'>
+2023-08-30 07:34:39 +0000  IDEDistributionItem init <DVTFilePath:0x60000a1bf200:'/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/libswift_Concurrency.dylib'>
+2023-08-30 07:34:39 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x60000a1bf200:'/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/libswift_Concurrency.dylib'>
+2023-08-30 07:34:39 +0000  IDEDistributionItem init <DVTFilePath:0x60002264e5a0:'/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/hermes.framework'>
+2023-08-30 07:34:39 +0000  IDEDistributionItem init <DVTFilePath:0x60000a1aac80:'/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSBroadcastExtensionSDK.framework'>
+2023-08-30 07:34:39 +0000  IDEDistributionItem init <DVTFilePath:0x60002264dd50:'/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/WebRTC.framework'>
+2023-08-30 07:34:39 +0000  IDEDistributionItem init <DVTFilePath:0x60002264d960:'/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSSDK.framework'>
+2023-08-30 07:34:39 +0000  IDEDistributionItem init <DVTFilePath:0x60000a1a9080:'/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app/Frameworks/HMSAnalyticsSDK.framework'>
+2023-08-30 07:34:39 +0000  IDEDistributionItem init <DVTFilePath:0x60000e4c0230:'/var/folders/s4/2l096pdd0w95k0dcl4r7_d100000gn/T/XcodeDistPipeline.~~~mX1kvU/Root/Payload/HMSPrebuiltSample.app'>
+2023-08-30 07:34:39 +0000  Processing step: IDEDistributionCreateManifestStep
+2023-08-30 07:34:39 +0000  Skipping step: IDEDistributionCreateManifestStep because it said so
